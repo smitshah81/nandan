@@ -1,0 +1,381 @@
+/* Clearfix 
+======================================================================== */
+
+.one_half		{ width: 48%; }
+.one_third		{ width: 30.5%; }
+.two_third		{ width: 65.3%; }
+.one_fourth		{ width: 21.9%; }
+.one_fifth		{ width: 16.7%; }
+.three_fourth	{ width: 74.0%; }
+.four_fifth		{ width: 79.0%; }
+.two_fifth		{ width: 37.2%; }
+.three_fifth	{ width: 58.0%; }
+.one_sixth		{ width: 13.3%; }
+.five_fifth		{ width: 82.7%; }
+
+.one_half, 
+.one_third, 
+.two_third, 
+.one_fourth, 
+.one_fifth, 
+.four_fifth, 
+.one_sixth, 
+.five_fifth, 
+.two_fifth, 
+.three_fifth, 
+.three_fourth {
+	position: relative;
+	display:inline;
+	display: inline-block;
+	float: left;
+	margin-right: 4%;
+	margin-bottom:15px;
+}
+
+.last { margin-right: 0 !important; }
+
+/* Clearfix 
+======================================================================== */
+.clear	{ clear: both; display: block; width: auto;  height: 0; visibility: visible; }
+.clearfix:after { content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0; }
+html[xmlns] .clearfix { display: block; }
+* html .clearfix { height: 1%; }
+
+/* For timepicker. */
+.ui-timepicker-div .ui-widget-header { margin-bottom: 8px; }
+.ui-timepicker-div dl { text-align: left; }
+.ui-timepicker-div dl dt { float: left; clear:left; padding: 0 0 0 5px; }
+.ui-timepicker-div dl dd { margin: 0 10px 10px 40%; }
+.ui-timepicker-div td { font-size: 90%; }
+.ui-tpicker-grid-label { background: none; border: none; margin: 0; padding: 0; }
+
+.ui-timepicker-rtl{ direction: rtl; }
+.ui-timepicker-rtl dl { text-align: right; padding: 0 5px 0 0; }
+.ui-timepicker-rtl dl dt{ float: right; clear: right; }
+.ui-timepicker-rtl dl dd { margin: 0 40% 10px 10px; }
+
+#iva-businesshours .iva_timepicker {
+	background:url(../images/x.png) no-repeat right -10px center;
+}
+#iva-businesshours .iva_timepicker.x {
+	background-position: right 5px center;
+}
+#iva-businesshours .iva_timepicker.onX {
+	cursor:pointer;
+}
+
+.iva_message_box_content { }
+
+
+#create_success_mg  #iva_bh_msg{ margin: 0 0 20px 0; }
+#update_success_mg ,#iva_bh_message { position:relative; }
+#iva_bh_msg .notice, div.error, div.updated{
+	margin: 0 0 20px;
+}
+.businessHrs-logo-wrap {
+	background-color: #2795d3;
+	margin: 20px 0;
+	overflow: hidden;
+}
+
+.businessHrs-logo {
+	background: url(../images/logo.png ) no-repeat center center;
+	}
+
+.businessHrs-title {
+	position: relative;
+	padding: 20px 30px 20px 110px;
+	background-color: #ffffff;
+	}
+
+.businessHrs-title.sub-heading { 
+	margin-bottom: 50px;
+	padding: 10px 30px 10px 110px;
+	border-bottom:1px solid #eeeeee;
+	}
+
+.businessHrs-title.sub-heading p{ margin:1px 0; }
+.businessHrs-title.main-heading { margin-bottom: 40px; }
+.businessHrs-title.main-heading h2 { font-weight: 900;}
+
+.businessHrs-title.sidebar-heading { margin-bottom: 15px; padding: 5px 30px 5px 110px; border-bottom: 1px solid #eeeeee;}
+
+.businessHrs-title h2 { color: #464646; font-weight: 300; }
+
+.bHrs-list-title,
+.bHrs-add-title{
+	position: relative;
+	border-bottom: 1px solid #e5e5e5;
+	padding: 10px 30px;
+	background-color: #FFFFFF;
+}
+.bHrs-list-title h2,
+.bHrs-add-title h2{ 
+	color: #464646; 
+	font-weight: 300;
+}
+
+.bHrs-title{
+	position: relative;
+	border-bottom: 1px solid #e5e5e5;
+	padding: 10px 0;
+	margin-bottom: 20px;
+	background-color: #FFFFFF;
+}
+
+.bHrs-title h2{ 
+	color: #464646; 
+	font-weight: 300;
+}
+
+.ivabh-desc { font-size: 12px; color:#999999; opacity: 0.9; margin: 0;}
+
+/* General Settings Area */
+.ivabh_bh_title {
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: top;
+	width: 100px;
+}
+.ivabh-input-details {
+	display: inline-block;
+	overflow: hidden;
+}
+/* ---------------------- */
+
+.bHrs_wrap { 
+	position:relative;
+}
+.bHrs-left{
+	width:100%;
+}
+.bHrs-right{
+	width:100%;
+}
+
+.bHrs_list { margin: 0 0 20px 0; }
+
+.bHrs_list .widefat { border: 0 !important; }
+.bHrs_wrap .widefat { border: 0 !important; }
+
+.bHrs_icon {
+	color: #FFFFFF;
+	width: 70px;
+	height: 100%;
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
+.bHrs_icon.green { background-color: #89c846; }
+.bHrs_icon.blue { background-color: #0084cf; }
+.bHrs_icon.gray { background-color: #cccccc; }
+.bHrs_icon.orange { background-color: #ff8800; }
+.bHrs_icon.dark { background-color: #444444; }
+.bHrs_icon.red { background-color: #dd0000; }
+
+.businessHrs-content {
+	padding: 30px;
+	background-color: #FFFFFF;
+}
+.ivaIcon {
+	margin: 0 auto;
+	vertical-align: middle;
+	font-size: 30px;
+	margin-top: -0.5em;
+	margin-left: -0.7em;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+}
+.bHrs_copyright{
+	text-align: right;
+	margin-right: 10px;
+}
+
+.btnwrap {
+	margin-bottom: 20px;
+}
+
+/* New Buttons @since - 2.0.0 */
+.green-button,
+.alert-button,
+.red-button,
+.blue-button { 
+	margin:2px 3px 2px 0px!important;
+	line-height: 34px; 
+	text-shadow: none !important; 
+	height: 35px; 
+	color:#fff !important;
+	border: none !important; 
+	box-shadow: none !important;
+	outline: none !important;
+	}
+
+.blue-button		{ background-color:#2aa1d3 !important; }
+.blue-button:hover 	{ background-color:#4ebeed !important; }
+	
+.green-button		{ background-color:#8ab71b !important; }
+.green-button:hover	{ background-color:#a2cf32 !important; }
+
+.alert-button		{ background-color:#f0b017 !important; }
+.alert-button:hover	{ background-color:#f7c348 !important; }
+
+.red-button			{ background-color:#ee4e10 !important; }
+.red-button:hover	{ background-color:#f5713d !important; }
+
+
+#iva_bh_create_table.widefat,
+#iva_bh_update_table.widefat{
+	padding: 0;
+	margin:30px 0;
+}
+
+.widefat.fancytable td {
+	border-bottom:1px solid #dddddd;
+	vertical-align: top;
+	position: relative;
+	}
+
+.widefat.fancytable  tr:last-child td {
+	border:none;
+}
+.widefat.fancytable th {
+	padding:10px 15px;
+	background-color:#f0f0f0;
+	border-bottom:1px solid #e0e0e0;
+}	
+.edit-title span { opacity:0.5}
+
+
+.input-text[type="text"] {
+	padding:6px 10px;
+}
+.description { margin-top:5px;}
+
+.general-wrapper{background-color:#ffffff;}
+.general-heading{
+	background-color: #cde8fb;
+    border-bottom: 5px solid #aed9f8;
+    padding: 10px 15px;
+	font-size: 14px;
+}
+.general-input{
+	border-bottom:1px solid #eeeeee;
+	padding: 15px;
+}
+
+.clockicon {
+	position: absolute;
+	left: 12px;
+	top: 15px;
+	opacity: 0.5;
+}
+.iva-icon-clock{
+	position: absolute;
+	left: 8px;
+	top: -1px;
+}
+
+.bhrs-settings input[type="text"],
+.bhrs-settings textarea {
+	width: 95%;
+}
+
+.bHrs-mainwrap {
+	margin-top: 30px;
+    width: 98%;
+}
+
+.iva_bh_settings_wrap{
+	padding:15px 0;
+	margin:0 auto;
+	width:100%;
+	background-color:#ffffff;
+}
+
+.bhrs-settings small { color:#999999; font-size: 12px; font-style: italic; }
+.bhrs-settings small.desc { display: block;}
+
+
+.subbtn{
+	margin-top:10px;
+}
+/* Alignment */
+.alignleft   { float: left; text-align: left; }
+.alignright { float: right; text-align: right; }
+.aligncenter { text-align: center; display: block; margin-left: auto; margin-right: auto; }
+
+/* screenshot */
+.iva-oc-screenshot     { clear:both; position: relative; margin:3px 0; display:block; width: 150px;}
+.iva-oc-screenshot img {
+    background: none repeat scroll 0 0 #FAFAFA;
+    border-color: #CCCCCC #EEEEEE #EEEEEE #CCCCCC;
+    border-style: solid;
+    border-width: 1px;
+    float: left;
+    max-width: 150px;
+    padding: 4px;
+    -moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+	}
+.iva-oc-screenshot a { padding-left: 20px; text-decoration: none; }
+.iva-oc-screenshot a.iva_oc_image_remove {
+	font-weight:600;
+    bottom: 0;
+	right:0;
+	top: 0;
+	color:#ffffff;
+    position: absolute;
+}
+
+.iva-bh-plugin_thumbnail {
+    background: #ffffff none repeat scroll 0 0;
+    font-size: 14px;
+    padding-top: 10px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+    vertical-align: text-bottom;
+    width: 100px;
+	}
+	
+/* Holidays Wrap */
+.iva_bh_holiday_wrap { padding: 0px;}
+.iva_bh_holiday_count { margin-bottom: 30px;}
+.ivabh_hd_input { display: inline-block; float:left; margin-right: 1%;  }
+.ivabh_hd_input > label { display: block; }
+.ivabh_hd_input p { margin: 0; color: #999999; }
+.ivabh_hd_checkbox { clear:both; display: block; padding: 5px 0 0 0;}
+.iva_bh_holiday_row:nth-child(even) { background-color: rgba(0,0,0,0.05);}
+.iva_bh_holiday_row{ clear:both; display:block; padding: 10px; border-bottom: 1px solid #e2e2e2;}
+
+
+/* ivabh-footer*/
+#ivabh-footer { color:#777777; }
+
+#ivabh-footer p{
+	font-size: 13px;
+	font-style: italic;
+    line-height: 20px;
+    margin: 0;
+	}
+	
+.iva_bh_input { padding-left: 20px; }
+
+.iva_bh_latetime,
+.iva_bh_starttime { width: 150px; }
+
+.general-wrapper.bhrs-settings { margin-bottom: 30px; }
+
+.bhs-title { min-width: 100px; display: inline-block; vertical-align: top; margin-bottom: 3px; }
+.bhs-desc { oveflow: hidden;  }
+.bhs-desc.bhs-check details { display: inline;  }
+
+.bhs-desc.bhs-check label,
+.general-input details { color:#999999; font-size: 12px; font-style: italic; }
+.general-input details { display: block; }

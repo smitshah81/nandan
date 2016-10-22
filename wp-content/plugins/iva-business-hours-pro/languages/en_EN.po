@@ -1,0 +1,732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Aivah Business Hours Pro\n"
+"POT-Creation-Date: 2015-08-20 16:47+0530\n"
+"PO-Revision-Date: 2015-08-20 16:47+0530\n"
+"Last-Translator: info@aivahthemes.com <info@aivahthemes.com>\n"
+"Language-Team: AivahThemes <info@aivahthemes.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;_x\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: iva-bh-plugin-update-file.php:121
+msgid "Update in progress..."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:125
+msgid "Update file not found."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:152
+msgid "You have not selected a file to upload, please select a file."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:158
+msgid "Updated file is not a zip file, Select updated zip file."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:163
+msgid "Cannot find the update files."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:208
+msgid "The update folder is not extracted"
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:211
+msgid "Extracted folders are more then 1. Please check the update file."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:217 iva-bh-plugin-update-file.php:236
+msgid "Wrong update folder."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:222
+msgid ""
+"The update folder do not match the current plugin folder, please check the "
+"updated file."
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:250
+msgid "Please update the plugin manually via the ftp"
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:251
+msgid "Update Error:"
+msgstr ""
+
+#: iva-bh-plugin-update-file.php:252
+msgid "Go Back"
+msgstr ""
+
+#: iva-bhrs-holidays.php:17
+msgid "Display Holidays."
+msgstr ""
+
+#: iva-bhrs-holidays.php:103 iva-business-hours-pro-widget.php:337
+#: iva-business-hours-pro.php:948 iva_bhrs_holidays_vc_addon.php:37
+msgid "Title"
+msgstr ""
+
+#: iva-business-hours-pro-shortcode.php:31 iva-business-hours-pro-widget.php:55
+#: iva-business-hours-pro.php:332 iva_bhrs_vc_addon.php:126
+msgid "See more"
+msgstr ""
+
+#: iva-business-hours-pro-shortcode.php:32 iva-business-hours-pro-widget.php:56
+#: iva_bhrs_vc_addon.php:127
+msgid "Today"
+msgstr ""
+
+#: iva-business-hours-pro-shortcode.php:48 iva-business-hours-pro-widget.php:72
+#: iva-business-hours-pro.php:953 iva_bhrs_vc_addon.php:143
+msgid "Closed"
+msgstr ""
+
+#: iva-business-hours-pro-widget.php:17
+msgid "Display Business Hours."
+msgstr ""
+
+#: iva-business-hours-pro-widget.php:347
+msgid "Select Hours:"
+msgstr ""
+
+#: iva-business-hours-pro-widget.php:365
+msgid "Check this if you wish to group the hours if timings are same."
+msgstr ""
+
+#: iva-business-hours-pro-widget.php:368
+msgid "CSS: Additional CSS Class Name"
+msgstr ""
+
+#: iva-business-hours-pro.php:271 iva-business-hours-pro.php:847
+#: iva-business-hours-pro.php:947
+msgid "General Settings"
+msgstr ""
+
+#: iva-business-hours-pro.php:274
+msgid "Time Format:"
+msgstr ""
+
+#: iva-business-hours-pro.php:285
+msgid " Select the Time Format you wish to display for the Hours Shortcode."
+msgstr ""
+
+#: iva-business-hours-pro.php:291
+msgid "Date Format:"
+msgstr ""
+
+#: iva-business-hours-pro.php:302
+msgid " Select the Date Format you wish to display for the Hours Shortcode."
+msgstr ""
+
+#: iva-business-hours-pro.php:308
+msgid "Languages"
+msgstr ""
+
+#: iva-business-hours-pro.php:319
+msgid " Select the Language for datepicker and calender inputs."
+msgstr ""
+
+#: iva-business-hours-pro.php:324
+msgid "Today text"
+msgstr ""
+
+#: iva-business-hours-pro.php:327
+msgid " 'Todays' text string translation which appears on frontend."
+msgstr ""
+
+#: iva-business-hours-pro.php:335
+msgid ""
+" 'See more' text string translation which appears on frontend. ( Toggle Mode "
+"Business Hours )"
+msgstr ""
+
+#: iva-business-hours-pro.php:343
+msgid "Add Holidays"
+msgstr ""
+
+#: iva-business-hours-pro.php:352 iva-business-hours-pro.php:402
+#: iva-business-hours-pro.php:590
+msgid "Name"
+msgstr ""
+
+#: iva-business-hours-pro.php:355 iva-business-hours-pro.php:405
+msgid "Add display name for holiday."
+msgstr ""
+
+#: iva-business-hours-pro.php:358 iva-business-hours-pro.php:408
+msgid "Start Date"
+msgstr ""
+
+#: iva-business-hours-pro.php:361 iva-business-hours-pro.php:411
+msgid "Select Holiday Start Date"
+msgstr ""
+
+#: iva-business-hours-pro.php:364 iva-business-hours-pro.php:414
+msgid "End Date"
+msgstr ""
+
+#: iva-business-hours-pro.php:367 iva-business-hours-pro.php:417
+msgid "Select Holiday End Date"
+msgstr ""
+
+#: iva-business-hours-pro.php:370 iva-business-hours-pro.php:420
+#: iva-business-hours-pro.php:954
+msgid "Description"
+msgstr ""
+
+#: iva-business-hours-pro.php:373 iva-business-hours-pro.php:423
+msgid "Write Description for holiday (max : 150 characters)"
+msgstr ""
+
+#: iva-business-hours-pro.php:426 iva-business-hours-pro.php:606
+msgid "Delete"
+msgstr ""
+
+#: iva-business-hours-pro.php:430
+msgid "Check this if you wish to hide this holiday on frontend."
+msgstr ""
+
+#: iva-business-hours-pro.php:438
+msgid "Add Holiday"
+msgstr ""
+
+#: iva-business-hours-pro.php:445
+msgid "Save All Changes"
+msgstr ""
+
+#: iva-business-hours-pro.php:449
+msgid ""
+"Plugin Developed by - <a href=\"http://www.aivahthemes.com\" target=\"_blank"
+"\">AivahThemes</a>"
+msgstr ""
+
+#: iva-business-hours-pro.php:546
+msgid "Settings updated successfully"
+msgstr ""
+
+#: iva-business-hours-pro.php:570
+msgid "Welcome to Business Hours Pro Plugin"
+msgstr ""
+
+#: iva-business-hours-pro.php:571
+msgid ""
+"The powerful business hours pro WordPress Plugin suitable for any business "
+"globally."
+msgstr ""
+
+#: iva-business-hours-pro.php:572
+msgid "Version"
+msgstr ""
+
+#: iva-business-hours-pro.php:581
+msgid "Business Hours List"
+msgstr ""
+
+#: iva-business-hours-pro.php:589
+msgid "ID"
+msgstr ""
+
+#: iva-business-hours-pro.php:591 iva-business-hours-pro.php:950
+msgid "Shortcode"
+msgstr ""
+
+#: iva-business-hours-pro.php:592
+msgid "Actions"
+msgstr ""
+
+#: iva-business-hours-pro.php:605
+msgid "Edit"
+msgstr ""
+
+#: iva-business-hours-pro.php:615
+msgid "Create Hours"
+msgstr ""
+
+#: iva-business-hours-pro.php:624
+msgid "Documentation and Setup"
+msgstr ""
+
+#: iva-business-hours-pro.php:625
+msgid ""
+"Below are the instructions on how to install the plugin and start using it."
+msgstr ""
+
+#: iva-business-hours-pro.php:627
+msgid ""
+"Upload `iva-business-hours-pro` directory to the `/wp-content/plugins/` "
+"directory"
+msgstr ""
+
+#: iva-business-hours-pro.php:628
+msgid "Activate the plugin through the \"Plugins\" menu in WordPress directory"
+msgstr ""
+
+#: iva-business-hours-pro.php:629
+msgid ""
+"Add shortcodes in your posts e.g: [iva_bhrs name=\"Office Timings\" width="
+"\"300\" title=\"true\" current_day_color=\"#ff8800\" grouping_hrs=\"on\"]"
+msgstr ""
+
+#: iva-business-hours-pro.php:630
+msgid "Add widget in desired widget area."
+msgstr ""
+
+#: iva-business-hours-pro.php:631
+msgid ""
+"If you wish to change the layout and styling for business hours display edit "
+"iva-bh-front.css file located in the iva-business-hours-pro/assets/css/"
+msgstr ""
+
+#: iva-business-hours-pro.php:632
+msgid "More options coming soon like import/export for the business hours."
+msgstr ""
+
+#: iva-business-hours-pro.php:636
+msgid "All rights reserved"
+msgstr ""
+
+#: iva-business-hours-pro.php:638
+msgid "Manual Update Plugin"
+msgstr ""
+
+#: iva-business-hours-pro.php:646
+msgid "Update Business Hours Pro"
+msgstr ""
+
+#: iva-business-hours-pro.php:648
+msgid ""
+"Select a file provided within the package \"iva-business-hours-pro.zip\" If "
+"you update the plugin The files will be overwriten."
+msgstr ""
+
+#: iva-business-hours-pro.php:649
+msgid "Choose the update file:"
+msgstr ""
+
+#: iva-business-hours-pro.php:653
+msgid "Update Plugin"
+msgstr ""
+
+#: iva-business-hours-pro.php:655
+msgid "Close me!"
+msgstr ""
+
+#: iva-business-hours-pro.php:694 iva-business-hours-pro.php:886
+#: iva_bhrs_vc_addon.php:44
+msgid "Business Hours"
+msgstr ""
+
+#: iva-business-hours-pro.php:695 iva-business-hours-pro.php:887
+msgid ""
+"Additional text field will be displayed instead of end time if the field "
+"contains any text."
+msgstr ""
+
+#: iva-business-hours-pro.php:729 iva-business-hours-pro.php:892
+msgid "Weekday"
+msgstr ""
+
+#: iva-business-hours-pro.php:730 iva-business-hours-pro.php:893
+msgid "Start Time"
+msgstr ""
+
+#: iva-business-hours-pro.php:731 iva-business-hours-pro.php:894
+msgid "End Time"
+msgstr ""
+
+#: iva-business-hours-pro.php:732 iva-business-hours-pro.php:895
+msgid "Additional Text / End Time"
+msgstr ""
+
+#: iva-business-hours-pro.php:733 iva-business-hours-pro.php:896
+msgid "Add / Remove Period"
+msgstr ""
+
+#: iva-business-hours-pro.php:743 iva-business-hours-pro.php:776
+#: iva-business-hours-pro.php:786 iva-business-hours-pro.php:908
+#: iva-business-hours-pro.php:918
+msgid "Add Period"
+msgstr ""
+
+#: iva-business-hours-pro.php:744 iva-business-hours-pro.php:787
+#: iva-business-hours-pro.php:909
+msgid "Remove"
+msgstr ""
+
+#: iva-business-hours-pro.php:803 iva-business-hours-pro.php:925
+msgid "Opening Image:"
+msgstr ""
+
+#: iva-business-hours-pro.php:804 iva-business-hours-pro.php:926
+msgid ""
+"Upload the image you wish to display as we'are open on the hours display."
+msgstr ""
+
+#: iva-business-hours-pro.php:807 iva-business-hours-pro.php:829
+#: iva-business-hours-pro.php:928 iva-business-hours-pro.php:938
+msgid "Upload Image"
+msgstr ""
+
+#: iva-business-hours-pro.php:825 iva-business-hours-pro.php:935
+msgid "Closing Image:"
+msgstr ""
+
+#: iva-business-hours-pro.php:826 iva-business-hours-pro.php:936
+msgid ""
+"Upload the image you wish to display as we'are closed once the shop timings "
+"are about closed"
+msgstr ""
+
+#: iva-business-hours-pro.php:848
+msgid "Title:"
+msgstr ""
+
+#: iva-business-hours-pro.php:848
+msgid "Enter the title."
+msgstr ""
+
+#: iva-business-hours-pro.php:849
+msgid "Alias:"
+msgstr ""
+
+#: iva-business-hours-pro.php:849
+msgid "Slug and the shortcode ,Do not use special characters ."
+msgstr ""
+
+#: iva-business-hours-pro.php:850
+msgid "Shortcode:"
+msgstr ""
+
+#: iva-business-hours-pro.php:850 iva-business-hours-pro.php:950
+msgid "Hours Shortcode."
+msgstr ""
+
+#: iva-business-hours-pro.php:851
+msgid "Time Separator:"
+msgstr ""
+
+#: iva-business-hours-pro.php:851
+msgid ""
+"Time Separator ( eg: 09:00 <strong> - </strong> 06:00 ) add one space before "
+"and after your separator symbol."
+msgstr ""
+
+#: iva-business-hours-pro.php:852
+msgid "Closed Text:"
+msgstr ""
+
+#: iva-business-hours-pro.php:852 iva-business-hours-pro.php:953
+msgid "Closed text if specific day is closed."
+msgstr ""
+
+#: iva-business-hours-pro.php:853
+msgid "Description:"
+msgstr ""
+
+#: iva-business-hours-pro.php:853 iva-business-hours-pro.php:954
+msgid "Additional info which displays after / before the business hours."
+msgstr ""
+
+#: iva-business-hours-pro.php:854
+msgid "Description Poistion:"
+msgstr ""
+
+#: iva-business-hours-pro.php:854 iva-business-hours-pro.php:955
+msgid "Check this if you wish to display description above the hours."
+msgstr ""
+
+#: iva-business-hours-pro.php:855
+msgid "Description Hide:"
+msgstr ""
+
+#: iva-business-hours-pro.php:855 iva-business-hours-pro.php:956
+msgid "Check this if you wish to hide the description( Additional info)."
+msgstr ""
+
+#: iva-business-hours-pro.php:856
+msgid "Current Day:"
+msgstr ""
+
+#: iva-business-hours-pro.php:856
+msgid "Check this if you wish to highlight current day in hours display."
+msgstr ""
+
+#: iva-business-hours-pro.php:857
+msgid "Current Day Color:"
+msgstr ""
+
+#: iva-business-hours-pro.php:857
+msgid "Enter the color code to highlight the current day."
+msgstr ""
+
+#: iva-business-hours-pro.php:858
+msgid "Closed BG color:"
+msgstr ""
+
+#: iva-business-hours-pro.php:858
+msgid ""
+"Enter the color code for the closed text background.Make sure you select "
+"dark colors on the text color is white by default."
+msgstr ""
+
+#: iva-business-hours-pro.php:859 iva_bhrs_vc_addon.php:75
+msgid "Grouping Hours:"
+msgstr ""
+
+#: iva-business-hours-pro.php:859 iva_bhrs_vc_addon.php:78
+msgid ""
+"Check this if you wish to group the hours display if the timings are same."
+msgstr ""
+
+#: iva-business-hours-pro.php:860
+msgid "Style :"
+msgstr ""
+
+#: iva-business-hours-pro.php:860 iva-business-hours-pro.php:961
+msgid ""
+"Check this if you wish to hide all hours and display only current day and "
+"add toggle option to see remaining days."
+msgstr ""
+
+#: iva-business-hours-pro.php:868
+msgid "Update"
+msgstr ""
+
+#: iva-business-hours-pro.php:869
+msgid "Cancel"
+msgstr ""
+
+#: iva-business-hours-pro.php:888
+msgid ""
+"To create a closed day or closed period within a day, leave both the start "
+"time and end time hours blank."
+msgstr ""
+
+#: iva-business-hours-pro.php:948
+msgid "The Title for Business hours."
+msgstr ""
+
+#: iva-business-hours-pro.php:949
+msgid "Alias"
+msgstr ""
+
+#: iva-business-hours-pro.php:949
+msgid "Slug and the shortcode, Do not use special characters."
+msgstr ""
+
+#: iva-business-hours-pro.php:951
+msgid "Separator"
+msgstr ""
+
+#: iva-business-hours-pro.php:951
+msgid ""
+"Time Separator ( eg: 09:00 <strong> - </strong> 06:00 )add one space before "
+"and after your separator symbol."
+msgstr ""
+
+#: iva-business-hours-pro.php:955
+msgid "Prefix"
+msgstr ""
+
+#: iva-business-hours-pro.php:956
+msgid "Description Hide"
+msgstr ""
+
+#: iva-business-hours-pro.php:957
+msgid "Current Day"
+msgstr ""
+
+#: iva-business-hours-pro.php:957
+msgid ""
+"Check this if you wish to highlight the current day with different color."
+msgstr ""
+
+#: iva-business-hours-pro.php:958
+msgid "Day Color"
+msgstr ""
+
+#: iva-business-hours-pro.php:958
+msgid "Enter the color of the current day to highlight the current day."
+msgstr ""
+
+#: iva-business-hours-pro.php:959
+msgid "Closed BG"
+msgstr ""
+
+#: iva-business-hours-pro.php:959
+msgid ""
+"Enter the color code for the closed text background, make sure you select "
+"dark colors on the text color is white by default."
+msgstr ""
+
+#: iva-business-hours-pro.php:960
+msgid "Grouping"
+msgstr ""
+
+#: iva-business-hours-pro.php:960
+msgid ""
+"Check this if you wish to group the hours display if the timings are same.."
+msgstr ""
+
+#: iva-business-hours-pro.php:961
+msgid "Style"
+msgstr ""
+
+#: iva-business-hours-pro.php:968
+msgid ""
+"Note: To create a closed day or closed period within a day, leave both the "
+"start time and end time hours blank."
+msgstr ""
+
+#: iva-business-hours-pro.php:969
+msgid "Create"
+msgstr ""
+
+#: iva-business-hours-pro.php:970
+msgid "Close"
+msgstr ""
+
+#: iva-business-hours-pro.php:981
+msgid "Plugin Developed by"
+msgstr ""
+
+#: iva-business-hours-pro.php:997
+msgid "Now"
+msgstr ""
+
+#: iva-business-hours-pro.php:998
+msgid "Done"
+msgstr ""
+
+#: iva-business-hours-pro.php:999
+msgid "AM"
+msgstr ""
+
+#: iva-business-hours-pro.php:999
+msgid "A"
+msgstr ""
+
+#: iva-business-hours-pro.php:1000
+msgid "PM"
+msgstr ""
+
+#: iva-business-hours-pro.php:1000
+msgid "P"
+msgstr ""
+
+#: iva-business-hours-pro.php:1002
+msgid "Suffix"
+msgstr ""
+
+#: iva-business-hours-pro.php:1003
+msgid "Choose Time"
+msgstr ""
+
+#: iva-business-hours-pro.php:1004
+msgid "Time"
+msgstr ""
+
+#: iva-business-hours-pro.php:1005
+msgid "Hour"
+msgstr ""
+
+#: iva-business-hours-pro.php:1006
+msgid "Minute"
+msgstr ""
+
+#: iva-business-hours-pro.php:1007
+msgid "Second"
+msgstr ""
+
+#: iva-business-hours-pro.php:1008
+msgid "Millisecond"
+msgstr ""
+
+#: iva-business-hours-pro.php:1009
+msgid "Microsecond"
+msgstr ""
+
+#: iva-business-hours-pro.php:1010
+msgid "Time Zone"
+msgstr ""
+
+#: iva-business-hours-pro.php:1077 iva-business-hours-pro.php:1207
+msgid "Enter Title"
+msgstr ""
+
+#: iva-business-hours-pro.php:1089 iva-business-hours-pro.php:1221
+msgid "Alias Exist"
+msgstr ""
+
+#: iva-business-hours-pro.php:1093 iva-business-hours-pro.php:1225
+msgid "Enter Alias"
+msgstr ""
+
+#: iva-business-hours-pro.php:1170
+msgid "Created Successfully"
+msgstr ""
+
+#: iva-business-hours-pro.php:1299
+msgid "Updated Successfully"
+msgstr ""
+
+#: iva-business-hours-pro.php:1322
+msgid "Deleted Successfully"
+msgstr ""
+
+#: iva-business-hours-pro.php:1407
+msgid "closed"
+msgstr ""
+
+#: iva_bhrs_holidays_vc_addon.php:27 iva_bhrs_holidays_vc_addon.php:32
+msgid "Holidays"
+msgstr ""
+
+#: iva_bhrs_holidays_vc_addon.php:40
+msgid "Enter title"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:39
+msgid "Business Hours Pro"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:49
+msgid "Select Hours"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:52
+msgid "Select the hours shortcode to display"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:58
+msgid "Width"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:61
+msgid "Enter the width in only numbers, no percentage or pixels."
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:66
+msgid "Title Enable/Disable:"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:69
+msgid "Check this if you wish to enable/disable title."
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:85
+msgid "Current Day Color"
+msgstr ""
+
+#: iva_bhrs_vc_addon.php:88
+msgid "Select the day color to highlight the current day"
+msgstr ""

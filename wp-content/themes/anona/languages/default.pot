@@ -1,0 +1,4159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hopes\n"
+"POT-Creation-Date: 2014-10-16 16:44+0530\n"
+"PO-Revision-Date: 2014-10-16 17:07+0530\n"
+"Last-Translator: info@aivahthemes.com <info@aivahthemes.com>\n"
+"Language-Team: AivahThemes <info@aivahthemes.com>\n"
+"Language: en_EN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.9\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;_x;__\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:16
+msgid "Ooops... Error 404"
+msgstr ""
+
+#: ../404.php:17
+msgid "We're sorry, but the page you are looking for doesn't exist."
+msgstr ""
+
+#: ../archive.php:47 ../author.php:46
+#: ../church/ctc_location/archive-ctc_location.php:91
+#: ../church/template-location.php:132 ../church/template-people.php:136
+#: ../church/template-sermons.php:116 ../index.php:14 ../search.php:38
+#: ../tag.php:26 ../template_blog.php:46 ../template_gallery.php:102
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#: ../author.php:26
+msgid "About"
+msgstr ""
+
+#: ../church/ctc_location/archive-ctc_location.php:77
+#: ../church/shortcodes/location.php:79 ../church/template-location.php:120
+msgid "Location Details"
+msgstr ""
+
+#: ../church/ctc_location/archive-ctc_location.php:94
+#: ../church/ctc_location/single-ctc_location.php:97
+#: ../church/ctc_person/single-ctc_person.php:86
+#: ../church/template-location.php:135 ../church/template-people.php:139
+#: ../church/template-sermons.php:120 ../content-audio.php:36
+#: ../content-gallery.php:36 ../content-image.php:36 ../content-link.php:40
+#: ../content-quote.php:40 ../content-status.php:36 ../content-video.php:39
+#: ../content.php:43 ../framework/common/atp_generator.php:621
+#: ../framework/common/atp_generator.php:646 ../page.php:27
+#: ../single-slider.php:48 ../template_blog.php:53
+#: ../template_events_fullwidth.php:20 ../template_events_leftsidebar.php:30
+#: ../template_events_rightsidebar.php:24 ../template_gallery.php:109
+#: ../template_subpage.php:27
+msgid "Edit"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:21
+#: ../church/ctc_person/person-meta.php:22
+#: ../church/ctc_sermon/sermon-meta.php:22
+#: ../framework/custom-meta/gallery-meta.php:45
+#: ../framework/custom-meta/page-meta.php:79
+#: ../framework/custom-meta/post-meta.php:56
+msgid "Page Background"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:44
+#: ../church/ctc_person/person-meta.php:45
+#: ../church/ctc_sermon/sermon-meta.php:45
+#: ../framework/custom-meta/gallery-meta.php:68
+#: ../framework/custom-meta/page-meta.php:102
+#: ../framework/custom-meta/post-meta.php:79
+msgid "Subheader Options"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:60
+#: ../church/ctc_person/person-meta.php:61
+#: ../church/ctc_sermon/sermon-meta.php:61
+#: ../framework/custom-meta/gallery-meta.php:84
+#: ../framework/custom-meta/page-meta.php:119
+#: ../framework/custom-meta/post-meta.php:95
+msgid "Twitter Username"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:71
+#: ../church/ctc_person/person-meta.php:72
+#: ../church/ctc_sermon/sermon-meta.php:72
+#: ../framework/custom-meta/gallery-meta.php:95
+#: ../framework/custom-meta/post-meta.php:106
+msgid "Custom Text"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:82
+#: ../church/ctc_person/person-meta.php:83
+#: ../church/ctc_sermon/sermon-meta.php:83
+#: ../framework/custom-meta/gallery-meta.php:106
+#: ../framework/custom-meta/page-meta.php:141
+#: ../framework/custom-meta/post-meta.php:117
+msgid "Subheader Background"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:99
+#: ../church/ctc_person/person-meta.php:100
+#: ../church/ctc_sermon/sermon-meta.php:100
+#: ../framework/custom-meta/gallery-meta.php:123
+#: ../framework/custom-meta/page-meta.php:158
+#: ../framework/custom-meta/post-meta.php:134
+msgid "Subheader Text Color"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:109
+#: ../church/ctc_person/person-meta.php:110
+#: ../church/ctc_sermon/sermon-meta.php:110
+#: ../framework/custom-meta/gallery-meta.php:133
+#: ../framework/custom-meta/page-meta.php:168
+#: ../framework/custom-meta/post-meta.php:144
+msgid "Subheader Padding"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:119
+#: ../church/ctc_person/person-meta.php:120
+#: ../church/ctc_sermon/sermon-meta.php:120
+#: ../framework/custom-meta/gallery-meta.php:143
+#: ../framework/custom-meta/page-meta.php:178
+#: ../framework/custom-meta/post-meta.php:154
+msgid "Sidebar Position"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:133
+#: ../church/ctc_person/person-meta.php:134
+#: ../church/ctc_sermon/sermon-meta.php:134
+#: ../framework/custom-meta/gallery-meta.php:157
+#: ../framework/custom-meta/page-meta.php:193
+#: ../framework/custom-meta/post-meta.php:168
+msgid "Custom Sidebar"
+msgstr ""
+
+#: ../church/ctc_location/location-meta.php:145
+#: ../church/ctc_person/person-meta.php:146
+#: ../church/ctc_sermon/sermon-meta.php:146
+#: ../framework/custom-meta/gallery-meta.php:169
+#: ../framework/custom-meta/page-meta.php:205
+#: ../framework/custom-meta/post-meta.php:180
+msgid "Breadcrumb"
+msgstr ""
+
+#: ../church/ctc_location/single-ctc_location.php:102
+#: ../church/ctc_person/single-ctc_person.php:94
+#: ../church/ctc_sermon/single-ctc_sermon.php:197
+msgid "Sorry, no projects matched your criteria."
+msgstr ""
+
+#: ../church/ctc_person/archive-ctc_person.php:28
+#: ../framework/common/atp_generator.php:313
+msgid "Person"
+msgstr ""
+
+#: ../church/ctc_person/archive-ctc_person.php:50
+#: ../church/ctc_person/single-ctc_person.php:48
+#: ../church/ctc_person/taxonomy-ctc_person_group.php:50
+#: ../church/template-people.php:91 ../single-slider.php:20
+#: ../template_gallery.php:79
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: ../church/ctc_person/archive-ctc_person.php:81
+#: ../church/ctc_person/taxonomy-ctc_person_group.php:81
+#: ../church/shortcodes/people.php:85 ../church/template-people.php:122
+msgid "Read Biography"
+msgstr ""
+
+#: ../church/ctc_person/church_sociable_icons.php:193
+#: ../church/ctc_sermon/archive-ctc_sermon.php:42
+#: ../church/ctc_sermon/archive-ctc_sermon.php:47
+#: ../church/ctc_sermon/archive-ctc_sermon.php:52
+#: ../church/ctc_sermon/single-ctc_sermon.php:46
+#: ../church/ctc_sermon/single-ctc_sermon.php:50
+#: ../church/ctc_sermon/single-ctc_sermon.php:56
+#: ../church/ctc_sermon/single-ctc_sermon.php:148
+#: ../church/ctc_sermon/single-ctc_sermon.php:151
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_book.php:42
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_book.php:47
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_book.php:52
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_series.php:42
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_series.php:47
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_series.php:52
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_speaker.php:41
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_speaker.php:46
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_speaker.php:51
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_tag.php:38
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_tag.php:43
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_tag.php:48
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_topic.php:43
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_topic.php:48
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_topic.php:53
+#: ../church/shortcodes/sermon.php:64 ../church/shortcodes/sermon.php:69
+#: ../church/shortcodes/sermon.php:74 ../church/template-sermons.php:82
+#: ../church/template-sermons.php:87 ../church/template-sermons.php:92
+#: ../widget-templates/widget-sermons.php:64
+#: ../widget-templates/widget-sermons.php:68
+#: ../widget-templates/widget-sermons.php:72
+#: ../widget-templates/widget-sermons.php:76
+msgid ", "
+msgstr ""
+
+#: ../church/ctc_person/church_sociable_icons.php:196
+msgid " or "
+msgstr ""
+
+#: ../church/ctc_person/church_sociable_icons.php:198
+msgid " and "
+msgstr ""
+
+#: ../church/ctc_person/taxonomy-ctc_person_group.php:28
+msgid "Person on"
+msgstr ""
+
+#: ../church/ctc_sermon/archive-ctc_sermon.php:18 ../church/index.php:208
+#: ../ctc_framework/includes/classes/widget-sermons.php:90
+msgid "Sermons"
+msgstr ""
+
+#: ../church/ctc_sermon/archive-ctc_sermon.php:63
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_book.php:63
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_series.php:63
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_speaker.php:63
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_tag.php:60
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_topic.php:65
+#: ../church/shortcodes/sermon.php:85 ../church/template-sermons.php:104
+msgid "View Sermon"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:119
+msgid "Save Video"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:120
+msgid "Save Audio"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:121
+msgid "Save PDF"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:149
+#, php-format
+msgid "<strong>Series:</strong> %s"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:152
+#, php-format
+msgid "<strong>Tagged with:</strong> %s"
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:166
+msgid "<strong>Pages:</strong> "
+msgstr ""
+
+#: ../church/ctc_sermon/single-ctc_sermon.php:173
+msgid "Edit Sermon"
+msgstr ""
+
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_book.php:18
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_topic.php:20
+msgid "Sermons on"
+msgstr ""
+
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_series.php:18
+msgid "Sermons in"
+msgstr ""
+
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_speaker.php:18
+msgid "Sermons by"
+msgstr ""
+
+#: ../church/ctc_sermon/taxonomy-ctc_sermon_tag.php:18
+msgid "Tagged"
+msgstr ""
+
+#: ../church/index.php:207
+#: ../ctc_framework/includes/classes/widget-archives.php:237
+#: ../framework/common/atp_generator.php:299
+#: ../framework/common/atp_generator.php:328
+#: ../page_builder/aivah_sc/shortcode-generator.php:1436
+msgid "Blog"
+msgstr ""
+
+#: ../church/shortcode_meta.php:51 ../framework/common/atp_generator.php:308
+msgid "Sermon"
+msgstr ""
+
+#: ../church/shortcode_meta.php:55
+msgid "Category List"
+msgstr ""
+
+#: ../church/shortcode_meta.php:58 ../church/shortcode_meta.php:73
+#: ../church/shortcode_meta.php:83 ../church/shortcode_meta.php:92
+#: ../church/shortcode_meta.php:101 ../church/shortcode_meta.php:110
+#: ../church/shortcode_meta.php:142
+#: ../page_builder/aivah_sc/shortcode-generator.php:1549
+msgid "Hold Control/Command key to select multiple categories"
+msgstr ""
+
+#: ../church/shortcode_meta.php:70 ../church/shortcode_meta.php:80
+#: ../church/shortcode_meta.php:89 ../church/shortcode_meta.php:98
+#: ../church/shortcode_meta.php:107 ../church/shortcode_meta.php:139
+#: ../ctc_framework/includes/classes/widget-posts.php:107
+#: ../page_builder/aivah_sc/shortcode-generator.php:1440
+#: ../page_builder/aivah_sc/shortcode-generator.php:1492
+#: ../page_builder/aivah_sc/shortcode-generator.php:1546
+msgid "Category"
+msgstr ""
+
+#: ../church/shortcode_meta.php:116
+msgid "Sermon Posts Limit"
+msgstr ""
+
+#: ../church/shortcode_meta.php:117 ../church/shortcode_meta.php:148
+#: ../church/shortcode_meta.php:175
+msgid "Number of items to show per page"
+msgstr ""
+
+#: ../church/shortcode_meta.php:125
+msgid "Sermon pagination"
+msgstr ""
+
+#: ../church/shortcode_meta.php:126 ../church/shortcode_meta.php:155
+#: ../church/shortcode_meta.php:182
+msgid "Check this if you want to show the pagination"
+msgstr ""
+
+#: ../church/shortcode_meta.php:135
+msgid "people"
+msgstr ""
+
+#: ../church/shortcode_meta.php:147
+msgid "People Posts Limit"
+msgstr ""
+
+#: ../church/shortcode_meta.php:154
+msgid "People pagination"
+msgstr ""
+
+#: ../church/shortcode_meta.php:163 ../framework/common/atp_generator.php:318
+msgid "Location"
+msgstr ""
+
+#: ../church/shortcode_meta.php:167 ../framework/widgets/gallery.php:126
+msgid "Post ID"
+msgstr ""
+
+#: ../church/shortcode_meta.php:170
+msgid ""
+"Enter the Locations Post-ID with comma separated if you wish to display more "
+"than one post"
+msgstr ""
+
+#: ../church/shortcode_meta.php:174
+msgid "Location Posts Limit"
+msgstr ""
+
+#: ../church/shortcode_meta.php:181
+msgid "Location pagination"
+msgstr ""
+
+#: ../church/shortcodes/sermon.php:42
+msgid "No Comments"
+msgstr ""
+
+#: ../church/shortcodes/sermon.php:44
+msgid " Comments"
+msgstr ""
+
+#: ../church/shortcodes/sermon.php:46 ../content-audio.php:33
+#: ../content-gallery.php:33 ../content-image.php:33 ../content-link.php:37
+#: ../content-quote.php:37 ../content-status.php:33 ../content-video.php:34
+#: ../content.php:40 ../page_builder/add_ons/shortcodes/vc_blogcarousel.php:86
+#: ../search.php:19
+msgid "1 Comment"
+msgstr ""
+
+#: ../church/shortcodes/sermon.php:50
+msgid "Comments are off for this post."
+msgstr ""
+
+#: ../comments.php:22
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:23
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:24
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:33
+msgid "Comments are closed."
+msgstr ""
+
+#: ../comments.php:41
+msgid "Post Comment"
+msgstr ""
+
+#: ../comments.php:42
+msgid "Leave a Reply"
+msgstr ""
+
+#: ../content-aside.php:26 ../content-aside.php:28 ../content-audio.php:44
+#: ../content-audio.php:46 ../content-gallery.php:43 ../content-gallery.php:45
+#: ../content-image.php:51 ../content-image.php:53 ../content-link.php:48
+#: ../content-link.php:50 ../content-status.php:49 ../content-video.php:48
+#: ../content-video.php:50 ../content.php:58 ../content.php:60
+#: ../page_builder/aivah_sc/shortcode/blog.php:56
+msgid "<span>Continue reading</span>"
+msgstr ""
+
+#: ../content-aside.php:31 ../content-audio.php:49 ../content-gallery.php:48
+#: ../content-image.php:56 ../content-link.php:53 ../content-quote.php:53
+#: ../content-status.php:51 ../content-video.php:53 ../content.php:63
+#: ../page.php:19 ../page_builder/aivah_sc/shortcode/blog.php:60
+#: ../page_builder/aivah_sc/shortcode/blog.php:80 ../template_subpage.php:19
+msgid "Pages:"
+msgstr ""
+
+#: ../content-audio.php:33 ../content-gallery.php:33 ../content-image.php:33
+#: ../content-link.php:37 ../content-quote.php:37 ../content-status.php:33
+#: ../content-video.php:34 ../content.php:40
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-audio.php:33 ../content-gallery.php:33 ../content-image.php:33
+#: ../content-link.php:37 ../content-quote.php:37 ../content-status.php:33
+#: ../content-video.php:34 ../content.php:40
+#: ../page_builder/add_ons/shortcodes/vc_blogcarousel.php:86 ../search.php:19
+msgid "% Comments"
+msgstr ""
+
+#: ../content-quote.php:51
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/admin-enqueue-scripts.php:37
+msgid "Choose Image for Widget"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/admin-enqueue-scripts.php:38
+msgid "Use in Widget"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/admin-enqueue-scripts.php:39
+msgid "Sorry, this widget is not made for use in this area. Please delete."
+msgstr ""
+
+#: ../ctc_framework/includes/admin/admin-taxonomies.php:70
+#, php-format
+msgid ""
+"<b>Custom Ordering:</b> Try <a href=\"%s\" target=\"_blank\">this plugin</a> "
+"for custom ordering your %s."
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:186
+#: ../ctc_framework/includes/admin/edd-license.php:187
+msgid "Theme License"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:237
+msgid "License Key"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:250
+msgid "Save Key"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:255
+msgid "License Activation"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:264
+msgid "License Status"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:283
+msgid "Deactivate License"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:285
+msgid "Activate License"
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:413
+#, php-format
+msgid ""
+"<b>License key could not be activated.</b> Read the <a href=\"%s\" target="
+"\"_blank\">License Keys</a> guide for help."
+msgstr ""
+
+#: ../ctc_framework/includes/admin/edd-license.php:470
+#, php-format
+msgid ""
+"<b>License Activation:</b> Please activate your <a href=\"%s\">License Key</"
+"a> for the %s theme."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/CTFW_EDD_SL_Theme_Updater.php:77
+#, php-format
+msgid ""
+"Any customizations you have made directly to %s's theme files will be lost. "
+"Please consider using a child theme for modifications."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/CTFW_EDD_SL_Theme_Updater.php:94
+#, php-format
+msgid ""
+"<strong>%1$s %2$s</strong> is available. <a href=\"%3$s\"%4$s>Update Now</a> "
+"or read the <a href=\"%5$s\" target=\"_blank\">Changelog</a>."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:55
+msgid " > "
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:238
+#: ../framework/common/atp_generator.php:374
+msgid "Y"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:255
+msgid "F"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:272
+msgid "jS"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:322 ../header.php:34
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:333
+msgid "Search Results"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/breadcrumbs.php:479
+msgid "Home"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/customize-controls.php:90
+msgid "Presets"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/customize-controls.php:113
+msgid "Colorable"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:34
+msgid "CT Archives"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:36
+msgid "Monthly archive for chosen post type"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:83
+#: ../ctc_framework/includes/classes/widget-categories.php:86
+#: ../ctc_framework/includes/classes/widget-categories.php:143
+#: ../ctc_framework/includes/classes/widget-events.php:81
+#: ../ctc_framework/includes/classes/widget-galleries.php:83
+#: ../ctc_framework/includes/classes/widget-galleries.php:117
+#: ../ctc_framework/includes/classes/widget-gallery.php:92
+#: ../ctc_framework/includes/classes/widget-gallery.php:174
+#: ../ctc_framework/includes/classes/widget-giving.php:85
+#: ../ctc_framework/includes/classes/widget-highlight.php:81
+#: ../ctc_framework/includes/classes/widget-locations.php:81
+#: ../ctc_framework/includes/classes/widget-people.php:81
+#: ../ctc_framework/includes/classes/widget-posts.php:83
+#: ../ctc_framework/includes/classes/widget-posts.php:142
+#: ../ctc_framework/includes/classes/widget-sermons.php:81
+#: ../ctc_framework/includes/classes/widget-sermons.php:218
+#: ../ctc_framework/includes/classes/widget-slide.php:85
+#: ../framework/custom-post/gallery.php:68
+#: ../framework/custom-post/slider.php:64
+#: ../framework/custom-post/testimonial.php:64
+#: ../framework/widgets/contactinfo.php:101
+#: ../framework/widgets/gallery.php:122
+#: ../page_builder/add_ons/shortcode_addons.php:1162
+#: ../page_builder/add_ons/shortcode_addons.php:1235
+#: ../page_builder/add_ons/shortcode_addons.php:1534
+#: ../page_builder/aivah_sc/shortcode-generator.php:491
+#: ../page_builder/aivah_sc/shortcode-generator.php:525
+#: ../page_builder/aivah_sc/shortcode-generator.php:1036
+#: ../page_builder/aivah_sc/shortcode-generator.php:1128
+#: ../page_builder/aivah_sc/shortcode-generator.php:1324
+#: ../page_builder/aivah_sc/shortcode-generator.php:1749
+#: ../page_builder/aivah_sc/shortcode-generator.php:1807
+msgid "Title"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:92
+#: ../framework/common/atp_generator.php:344
+#: ../framework/common/atp_generator.php:350 ../template_sitemap.php:36
+msgid "Archives"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:107
+#: ../ctc_framework/includes/classes/widget-categories.php:110
+#: ../framework/includes/class-tgm-plugin-activation.php:1299
+#: ../page_builder/aivah_sc/shortcode-generator.php:2472
+msgid "Type"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:131
+#: ../ctc_framework/includes/classes/widget-categories.php:189
+#: ../ctc_framework/includes/classes/widget-events.php:132
+#: ../ctc_framework/includes/classes/widget-galleries.php:161
+#: ../ctc_framework/includes/classes/widget-gallery.php:219
+#: ../ctc_framework/includes/classes/widget-locations.php:159
+#: ../ctc_framework/includes/classes/widget-people.php:185
+#: ../ctc_framework/includes/classes/widget-posts.php:188
+#: ../ctc_framework/includes/classes/widget-sermons.php:264
+#: ../page_builder/add_ons/shortcode_addons.php:1076
+#: ../page_builder/aivah_sc/shortcode-generator.php:2417
+#: ../page_builder/aivah_sc/shortcode-generator.php:2464
+msgid "Limit"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:133
+msgid "Set to 0 for no limit."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:162
+#: ../ctc_framework/includes/classes/widget-categories.php:220
+msgid "Show counts"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-archives.php:183
+#: ../ctc_framework/includes/classes/widget-categories.php:265
+msgid "Show as dropdown"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:34
+msgid "CT Categories"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:36
+msgid "Shows categories of various types"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:95
+#: ../framework/custom-post/gallery.php:70
+#: ../framework/custom-post/slider.php:67
+#: ../framework/custom-post/testimonial.php:66 ../template_sitemap.php:31
+msgid "Categories"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:134
+#: ../ctc_framework/includes/classes/widget-galleries.php:107
+#: ../ctc_framework/includes/classes/widget-gallery.php:164
+#: ../ctc_framework/includes/classes/widget-locations.php:105
+#: ../ctc_framework/includes/classes/widget-people.php:131
+#: ../ctc_framework/includes/classes/widget-posts.php:133
+#: ../ctc_framework/includes/classes/widget-sermons.php:209
+msgid "Order By"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:144
+#: ../ctc_framework/includes/classes/widget-posts.php:143
+#: ../ctc_framework/includes/classes/widget-sermons.php:219
+#: ../framework/custom-post/slider.php:68
+#: ../framework/custom-post/testimonial.php:68
+msgid "Date"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:145
+msgid "Post Count"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:171
+#: ../ctc_framework/includes/classes/widget-galleries.php:143
+#: ../ctc_framework/includes/classes/widget-gallery.php:201
+#: ../ctc_framework/includes/classes/widget-locations.php:141
+#: ../ctc_framework/includes/classes/widget-people.php:167
+#: ../ctc_framework/includes/classes/widget-posts.php:170
+#: ../ctc_framework/includes/classes/widget-sermons.php:246
+msgid "Low to High"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:172
+#: ../ctc_framework/includes/classes/widget-galleries.php:144
+#: ../ctc_framework/includes/classes/widget-gallery.php:202
+#: ../ctc_framework/includes/classes/widget-locations.php:142
+#: ../ctc_framework/includes/classes/widget-people.php:168
+#: ../ctc_framework/includes/classes/widget-posts.php:171
+#: ../ctc_framework/includes/classes/widget-sermons.php:247
+msgid "High to Low"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:191
+#: ../ctc_framework/includes/classes/widget-galleries.php:163
+msgid "Set to 0 for unlimited."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:244
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:312
+msgid "Blog Categories"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-categories.php:314
+msgid "Blog Tags"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:32
+msgid "CT Events"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:34
+msgid "Shows upcoming or past events"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:90
+msgid "Events"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:114
+msgid "Upcoming"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:115
+msgid "Past"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:160
+#: ../ctc_framework/includes/classes/widget-locations.php:187
+#: ../ctc_framework/includes/classes/widget-posts.php:216
+#: ../ctc_framework/includes/classes/widget-sermons.php:292
+msgid "Show image"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:187
+#: ../ctc_framework/includes/classes/widget-posts.php:243
+#: ../ctc_framework/includes/classes/widget-sermons.php:319
+msgid "Show date"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:208
+msgid "Show time"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-events.php:232
+#: ../ctc_framework/includes/classes/widget-people.php:333
+#: ../ctc_framework/includes/classes/widget-posts.php:288
+#: ../ctc_framework/includes/classes/widget-sermons.php:460
+msgid "Show excerpt"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-galleries.php:34
+msgid "CT Galleries"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-galleries.php:36
+msgid "Shows list of gallery pages"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-galleries.php:92
+msgid "Galleries"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-galleries.php:116
+msgid "Date Added"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:32
+msgid "CT Gallery"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:34
+msgid "Shows gallery thumbnails"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:56
+#: ../framework/custom-post/gallery.php:21
+msgid "All Galleries"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:101
+#: ../ctc_framework/includes/classes/widget-gallery.php:116
+#: ../framework/common/atp_generator.php:323
+#: ../framework/custom-post/gallery.php:10
+msgid "Gallery"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:144
+msgid "Show link to gallery"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:173
+msgid "Upload Date"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:175
+#: ../ctc_framework/includes/classes/widget-posts.php:144
+#: ../ctc_framework/includes/classes/widget-sermons.php:220
+msgid "Comment Count"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:243
+msgid "Thumbnail Size"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:252
+msgid "Small"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:253
+msgid "Medium"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-gallery.php:254
+msgid "Large"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:32
+msgid "CT Giving"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:34
+msgid "Shows a message and button"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:94
+msgid "Giving"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:109
+msgid "Message"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:118
+msgid "You may give online by clicking below."
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:133
+#: ../page_builder/add_ons/shortcode_addons.php:1672
+#: ../page_builder/aivah_sc/shortcode-generator.php:699
+#: ../page_builder/aivah_sc/shortcode-generator.php:918
+msgid "Button Text"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:142
+msgid "Give Now"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-giving.php:157
+msgid "Button URL"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:32
+msgid "CT Highlight"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:34
+msgid "Shows a highlight"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:105
+#: ../ctc_framework/includes/classes/widget-slide.php:109
+msgid "Description"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:129
+#: ../ctc_framework/includes/classes/widget-slide.php:133
+msgid "Click URL"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:157
+#: ../ctc_framework/includes/classes/widget-slide.php:161
+msgid "Open in new tab"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-highlight.php:177
+#: ../ctc_framework/includes/classes/widget-slide.php:181
+#: ../page_builder/aivah_sc/shortcode-generator.php:1312
+msgid "Image"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:32
+msgid "CT Locations"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:34
+msgid "Shows church location(s)"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:90
+msgid "Locations"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:114
+#: ../ctc_framework/includes/classes/widget-people.php:140
+msgid "Custom Order"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:115
+#: ../ctc_framework/includes/classes/widget-people.php:141
+#: ../framework/widgets/contactinfo.php:105
+#: ../page_builder/add_ons/shortcode_addons.php:568
+#: ../page_builder/aivah_sc/shortcode-generator.php:2110
+#: ../page_builder/aivah_sc/shortcode-generator.php:2729
+msgid "Name"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:211
+msgid "Show address"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:235
+msgid "Show phone number"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:259
+msgid "Show times"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-locations.php:283
+msgid "Show map"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:32
+msgid "CT People"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:34
+msgid "Shows people according to options"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:90
+msgid "People"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:105
+#: ../page_builder/add_ons/shortcode_addons.php:1541
+msgid "Group"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:114
+msgid "All Groups"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:213
+msgid "Show photo"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:237
+msgid "Show position"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:261
+msgid "Show phone"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:285
+msgid "Show email"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-people.php:309
+msgid "Show icons"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-posts.php:34
+msgid "CT Posts"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-posts.php:36
+msgid "Shows blog posts according to options"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-posts.php:92
+msgid "Posts"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-posts.php:116
+msgid "All Categories"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-posts.php:267
+msgid "Show author"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:32
+msgid "CT Sermons"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:34
+msgid "Shows sermons according to options"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:105
+msgid "Topic"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:114
+msgid "All Topics"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:131
+msgid "Book"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:140
+msgid "All Books"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:157
+msgid "Series"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:166
+msgid "All Series"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:183
+msgid "Speaker"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:192
+msgid "All Speakers"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:343
+msgid "Show topic"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:367
+msgid "Show book"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:391
+msgid "Show series"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:415
+msgid "Show speaker"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-sermons.php:436
+msgid "Show media types"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-slide.php:33
+msgid "CT Slide"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-slide.php:35
+msgid "A slide to be shown in a slider"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget-slide.php:205
+msgid "Video URL"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget.php:297
+#: ../framework/custom-meta/meta-generator.php:270
+msgid "Choose Image"
+msgstr ""
+
+#: ../ctc_framework/includes/classes/widget.php:300
+msgid "Remove Image"
+msgstr ""
+
+#: ../ctc_framework/includes/compatibility.php:61
+#, php-format
+msgid ""
+"<b>Activation Failed:</b> %s requires a newer version of WordPress. Please "
+"update and try again."
+msgstr ""
+
+#: ../ctc_framework/includes/compatibility.php:126
+msgid "Go back."
+msgstr ""
+
+#: ../ctc_framework/includes/compatibility.php:215
+#, php-format
+msgid ""
+"<b>Plugin Required:</b> Please install and activate the <a href=\"%s\" class="
+"\"thickbox\">Church Theme Content</a> plugin to use with the current theme."
+msgstr ""
+
+#: ../ctc_framework/includes/compatibility.php:225
+#, php-format
+msgid ""
+"Please <a href=\"%s\">activate</a> the <b>Church Theme Content</b> plugin "
+"required by the current theme."
+msgstr ""
+
+#: ../ctc_framework/includes/compatibility.php:293
+msgid ""
+"You are using an outdated version of Internet Explorer. Please upgrade your "
+"browser to use this site."
+msgstr ""
+
+#: ../ctc_framework/includes/events.php:118
+#, php-format
+msgid "%s &ndash; %s"
+msgstr ""
+
+#: ../ctc_framework/includes/head.php:49
+#, php-format
+msgid " (Page %d)"
+msgstr ""
+
+#: ../ctc_framework/includes/head.php:70
+msgid " - "
+msgstr ""
+
+#: ../ctc_framework/includes/helpers.php:190
+msgid "&hellip;"
+msgstr ""
+
+#: ../ctc_framework/includes/images.php:80
+#, php-format
+msgid "The target image size is %s."
+msgstr ""
+
+#: ../ctc_framework/includes/maps.php:74
+msgid ""
+"<p><b>Google Map Error:</b> <i>latitude</i> and <i>longitude</i> attributes "
+"are required. See documentation for help.</p>"
+msgstr ""
+
+#: ../ctc_framework/includes/mime-types.php:32
+msgid "File"
+msgstr ""
+
+#: ../ctc_framework/includes/template-tags.php:49
+msgid "Today"
+msgstr ""
+
+#: ../ctc_framework/includes/template-tags.php:54
+msgid "Yesterday"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:73
+#, php-format
+msgid "Howdy, %1$s"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1113
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1150
+msgid "download"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1217
+msgid "Import"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1218
+msgid "delete"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1500
+msgid "Upload"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1529
+msgid "View File"
+msgstr ""
+
+#: ../framework/admin/admin-interface.php:1604
+msgid "Options Framework Internal Container"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-importer.php:47
+msgid "An Error Occurred During Import"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-importer.php:49
+msgid "Content imported successfully"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-importer.php:70
+msgid "No xml file exists in data folder"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:138
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:147
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:198
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:202
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:211
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:139
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:182
+msgid "All done."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:182
+msgid "Have fun!"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:183
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:203
+#, php-format
+msgid ""
+"The export file could not be found at <code>%s</code>. It is likely that "
+"this was caused by a permissions problem."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:219
+#, php-format
+msgid ""
+"This WXR file (version %s) may not be supported by this version of the "
+"importer. Please consider updating."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:244
+#, php-format
+msgid ""
+"Failed to import author %s. Their posts will be attributed to the current "
+"user."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:270
+msgid "Assign Authors"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:271
+msgid ""
+"To make it easier for you to edit and save the imported content, you may "
+"want to reassign the author of the imported item to an existing user of this "
+"site. For example, you may want to import all the entries as <code>admin</"
+"code>s entries."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:273
+#, php-format
+msgid ""
+"If a new user is created by WordPress, a new password will be randomly "
+"generated and the new user&#8217;s role will be set as %s. Manually changing "
+"the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:283
+msgid "Import Attachments"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:286
+msgid "Download and import file attachments"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:303
+msgid "Import author:"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:314
+msgid "or create new user with login name:"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:317
+msgid "as a new user:"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:325
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:327
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:328
+msgid "- Select -"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:378
+#, php-format
+msgid ""
+"Failed to create new user for %s. Their posts will be attributed to the "
+"current user."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:429
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:469
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:515
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:656
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:541
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:563
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:622
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:787
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:794
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:860
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:873
+msgid "Invalid file type"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:918
+msgid "Remote server did not respond"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:924
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:931
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:936
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:942
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:1044
+msgid "Import WordPress"
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:1051
+#, php-format
+msgid ""
+"A new version of this importer is available. Please update to version %s to "
+"ensure compatibility with newer export files."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:1066
+msgid ""
+"Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import "
+"the posts, pages, comments, custom fields, categories, and tags into this "
+"site."
+msgstr ""
+
+#: ../framework/admin/iva-importer/iva-wordpress-importer.php:1067
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: ../framework/admin/iva-importer/parsers.php:42
+#: ../framework/admin/iva-importer/parsers.php:72
+#: ../framework/admin/iva-importer/parsers.php:80
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: ../framework/admin/iva-importer/parsers.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+
+#: ../framework/admin/iva-importer/parsers.php:84
+#: ../framework/admin/iva-importer/parsers.php:89
+#: ../framework/admin/iva-importer/parsers.php:279
+#: ../framework/admin/iva-importer/parsers.php:468
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: ../framework/admin/theme-options.php:1319
+msgid "MM menu option "
+msgstr ""
+
+#: ../framework/common/atp_generator.php:333
+#: ../framework/common/atp_generator.php:341
+msgid "Shop"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:351
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:361
+#, php-format
+msgid "Sermon archive for category: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:367
+#, php-format
+msgid "Person archive for category: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:370
+#, php-format
+msgid "Archive for date: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:372
+#, php-format
+msgid "Archive for month: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:372
+msgid "F Y"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:374
+#, php-format
+msgid "Archive for year: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:381
+#, php-format
+msgid "Tag Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:382 ../single-slider.php:26
+msgid "Tags"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:386
+#, php-format
+msgid "Sermon Tag Archive for: %s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:390
+msgid "Search Results : "
+msgstr ""
+
+#: ../framework/common/atp_generator.php:520
+msgid "You might also like"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:621
+msgid "Pingback:"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:636
+msgid "Post author"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:643
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../framework/common/atp_generator.php:652
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../framework/common/atp_generator.php:658
+msgid "Reply <span>&darr;</span>"
+msgstr ""
+
+#: ../framework/common/theme-love.php:95
+msgid "Like this"
+msgstr ""
+
+#: ../framework/common/theme-love.php:98
+msgid "You already like this!"
+msgstr ""
+
+#: ../framework/custom-meta/gallery-meta.php:19
+#: ../framework/custom-post/gallery.php:69
+msgid "Venue"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:26
+msgid "Page Slider"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:34
+msgid "FlexSlider Category"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:43
+msgid "Planbox Slider Content"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:51
+msgid "Static Image"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:59
+msgid "Image Link"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:67
+msgid "Custom Slider"
+msgstr ""
+
+#: ../framework/custom-meta/page-meta.php:130
+msgid "Subheader Custom Text"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:21
+msgid "The URL"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:32
+msgid "The Quote"
+msgstr ""
+
+#: ../framework/custom-meta/post-meta.php:44
+msgid "The Status"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:17
+msgid "The url that the slide post is linked to"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:30
+msgid "Slider Page Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:39
+msgid "Link Category for Slider"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:48
+msgid "Slider Post Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:57
+msgid "Slider Link"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:67
+msgid "Slider Caption"
+msgstr ""
+
+#: ../framework/custom-meta/slider-meta.php:75
+msgid "Caption Disable"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:20
+msgid "Client Picture"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:34
+msgid "Upload Photo"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:45
+msgid "Email ID"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:56
+msgid "Company Name"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:67
+#: ../page_builder/add_ons/shortcode_addons.php:604
+#: ../page_builder/aivah_sc/shortcode-generator.php:2769
+msgid "Website URL"
+msgstr ""
+
+#: ../framework/custom-meta/testimonial-meta.php:78
+msgid "Website Name"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:11
+msgid "ALL Gallery"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:12
+#: ../framework/custom-post/gallery.php:13
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:14
+#: ../framework/custom-post/gallery.php:50
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:15
+#: ../framework/custom-post/testimonial.php:11
+msgid "New Item"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:16
+msgid "View Gallery Item"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:17
+msgid "Search Gallery Item"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:18
+#: ../framework/custom-post/testimonial.php:14
+msgid "Nothing found"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:19
+#: ../framework/custom-post/testimonial.php:15
+msgid "Nothing found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:45
+#: ../framework/custom-post/gallery.php:46
+#: ../framework/custom-post/gallery.php:54
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:47
+msgid "Search Gallery"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:48
+msgid "Parent Gallery"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:49
+msgid "Parent Gallery:"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:51
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:52
+msgid "Add Gallery Category"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:53
+msgid "New Gallery "
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:71
+msgid "ID's"
+msgstr ""
+
+#: ../framework/custom-post/gallery.php:72
+#: ../framework/custom-post/slider.php:66
+msgid "Thumbnails"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:9
+msgid "Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:10
+#: ../framework/custom-post/slider.php:46
+msgid "Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:11
+#: ../framework/custom-post/testimonial.php:8
+msgid "Add New"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:12
+msgid "Add New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:13
+msgid "Edit Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:14
+msgid "New Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:15
+msgid "View Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:16
+msgid "Search Slide"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:17
+msgid "No Slider found"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:18
+msgid "No Slider found in Trash"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:20
+msgid "All Sliders"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:45
+#: ../framework/custom-post/slider.php:55
+msgid "Slider Categories"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:47
+msgid "Search Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:48
+msgid "All Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:49
+msgid "Parent Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:50
+msgid "Parent Slider:"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:51
+msgid "Edit Slider"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:52
+msgid "Update Sliders"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:53
+msgid "Add Slider Category"
+msgstr ""
+
+#: ../framework/custom-post/slider.php:54
+msgid "New Slider "
+msgstr ""
+
+#: ../framework/custom-post/slider.php:65
+#: ../framework/custom-post/testimonial.php:65
+msgid "Author"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:6
+#: ../framework/custom-post/testimonial.php:41
+#: ../page_builder/aivah_sc/shortcode-generator.php:1475
+msgid "Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:7
+msgid "Testimonial"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:9
+msgid "Add Testimonial"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:10
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:12
+msgid "View Testimonial Item"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:13
+msgid "Search Testimonial Item"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:17
+#: ../framework/custom-post/testimonial.php:43
+msgid "All Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:40
+#: ../framework/custom-post/testimonial.php:50
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:42
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:44
+msgid "Parent Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:45
+msgid "Parent Testimonials:"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:46
+msgid "Edit Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:47
+msgid "Update Testimonials"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:48
+msgid "Add Testimonial Category"
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:49
+msgid "New Testimonials "
+msgstr ""
+
+#: ../framework/custom-post/testimonial.php:67
+#: ../framework/widgets/contactinfo.php:117
+#: ../page_builder/add_ons/shortcode_addons.php:590
+#: ../page_builder/aivah_sc/shortcode-generator.php:2753
+msgid "Email"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:122
+#: ../framework/includes/class-tgm-plugin-activation.php:164
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:123
+#: ../framework/includes/class-tgm-plugin-activation.php:165
+msgid "Install Plugins"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:124
+#: ../framework/includes/class-tgm-plugin-activation.php:166
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:125
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:136
+#: ../framework/includes/class-tgm-plugin-activation.php:178
+#: ../framework/includes/class-tgm-plugin-activation.php:490
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../framework/includes/class-activation.php:137
+#: ../framework/includes/class-tgm-plugin-activation.php:179
+#: ../framework/includes/class-tgm-plugin-activation.php:1846
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-activation.php:138
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:167
+msgid "Something went wrong."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:180
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:517
+#: ../framework/includes/class-tgm-plugin-activation.php:2058
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:545
+#, php-format
+msgid "The following plugin was activated successfully: %s."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:704
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1091
+msgid "External Link"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1096
+msgid "Private Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1099
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1103
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1106
+msgid "Required"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1106
+msgid "Recommended"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1109
+msgid "Not Installed"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1111
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1281
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1297
+msgid "Plugin"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1298
+msgid "Source"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1300
+msgid "Status"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1318
+msgid "Install"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1319
+msgid "Activate"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1829
+msgid "Install package not available."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1830
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1831
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1832
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1833
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1834
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1845
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1955
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1956
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1956
+#: ../framework/includes/class-tgm-plugin-activation.php:1965
+msgid "Show Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1956
+#: ../framework/includes/class-tgm-plugin-activation.php:1965
+msgid "Hide Details"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1957
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1958
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1962
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1963
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1964
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1965
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1966
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../framework/includes/class-tgm-plugin-activation.php:1967
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:23
+msgid "Add Contact Info to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:109
+#: ../page_builder/add_ons/shortcode_addons.php:576
+#: ../page_builder/add_ons/shortcode_addons.php:1448
+#: ../page_builder/aivah_sc/shortcode-generator.php:2316
+#: ../page_builder/aivah_sc/shortcode-generator.php:2737
+msgid "Address"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:113
+#: ../page_builder/add_ons/shortcode_addons.php:583
+#: ../page_builder/aivah_sc/shortcode-generator.php:2745
+msgid "Phone"
+msgstr ""
+
+#: ../framework/widgets/contactinfo.php:121
+msgid "Website Url"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:23
+msgid "Use this widget to display your flickr gallery."
+msgstr ""
+
+#: ../framework/widgets/flickr.php:73 ../framework/widgets/popularpost.php:122
+#: ../framework/widgets/recentpost.php:118
+#: ../framework/widgets/sociable.php:71
+#: ../framework/widgets/testimonial.php:119
+#: ../framework/widgets/testimonials_submit.php:85
+msgid "Title:"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:77
+msgid ""
+"Flickr ID: <small>Find your ID from <a href='http://idgettr.com' "
+"target='_blank'>idGettr</a></small>"
+msgstr ""
+
+#: ../framework/widgets/flickr.php:81
+msgid "How many photos you would like to display?:"
+msgstr ""
+
+#: ../framework/widgets/gallery.php:31
+msgid "Add Post Gallery to your widget  ."
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:26
+msgid ""
+"Use this widget to display Popular Posts by tags, Thumbnail Enable/Disable."
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:126
+msgid "Extra Information:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:133
+msgid "Length of Description to show::"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:137
+#: ../framework/widgets/recentpost.php:121
+msgid "Number of posts to show:"
+msgstr ""
+
+#: ../framework/widgets/popularpost.php:141
+#: ../framework/widgets/recentpost.php:130
+msgid "Disable Post Thumbnail?"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:13
+msgid "The most recent posts on your site"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:14
+msgid "-Recent Posts"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:39
+msgid "Recent Posts"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:125
+msgid "Display post date?"
+msgstr ""
+
+#: ../framework/widgets/recentpost.php:126
+msgid "Length of Description to show:"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:10
+msgid "Main Sidebar"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:33
+msgid "Select only one widget which will appear on your Footer column1"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:43
+msgid "Select only one widget which will appear on your Footer column2"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:53
+msgid "Select only one widget which will appear on your Footer column3"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:63
+msgid "Select only one widget which will appear on your Footer column4"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:73
+msgid "Select only one widget which will appear on your Footer column5"
+msgstr ""
+
+#: ../framework/widgets/register_widget.php:83
+msgid "Select only one widget which will appear on your Footer column6"
+msgstr ""
+
+#: ../framework/widgets/sociable.php:23
+msgid "Sociable widget for sidebar."
+msgstr ""
+
+#: ../framework/widgets/sociable.php:73 ../framework/widgets/twitter.php:125
+msgid "Color:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:121
+msgid "Category:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:134
+msgid "limits:"
+msgstr ""
+
+#: ../framework/widgets/testimonial.php:136
+msgid "Limits"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:9
+msgid "Testimonials submission"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:11
+msgid "-Testimonials submission"
+msgstr ""
+
+#: ../framework/widgets/testimonials_submit.php:90
+msgid "Thank you Message:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:24
+msgid "Use this widget to display the latest tweet from twitter"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:111
+msgid "Twitter Title:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:115
+msgid "Twitter Username:"
+msgstr ""
+
+#: ../framework/widgets/twitter.php:120
+msgid "Twitter Limits:"
+msgstr ""
+
+#: ../functions.php:220
+msgid "Primary Menu"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:63
+msgid "Select Option"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:64
+msgid "Left Top"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:65
+msgid "Left Center"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:66
+msgid "Left Bottom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:67
+msgid "Right Top"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:68
+msgid "Right Center"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:69
+msgid "Right Bottom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:70
+msgid "Center top"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:71
+msgid "Center Center"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:72
+msgid "Center Bottom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:77
+#: ../page_builder/add_ons/shortcode_addons.php:100
+msgid "CSS Animation"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:81
+#: ../page_builder/add_ons/shortcode_addons.php:104
+msgid "No"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:82
+#: ../page_builder/add_ons/shortcode_addons.php:105
+msgid "Top to bottom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:83
+#: ../page_builder/add_ons/shortcode_addons.php:106
+msgid "Bottom to top"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:84
+#: ../page_builder/add_ons/shortcode_addons.php:107
+msgid "Left to right"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:85
+#: ../page_builder/add_ons/shortcode_addons.php:108
+msgid "Right to left"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:86
+#: ../page_builder/add_ons/shortcode_addons.php:109
+msgid "Appear from center"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:88
+#: ../page_builder/add_ons/shortcode_addons.php:112
+msgid ""
+"Select type of animation if you want this element to be animated when it "
+"enters into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:111
+#: ../page_builder/add_ons/shortcode_addons.php:127
+#: ../page_builder/add_ons/shortcode_addons.php:135
+msgid "Design"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:118
+msgid "Content Type"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:119
+msgid "Select the content type you wish to display in the front end"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:122
+msgid "Select"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:123
+msgid "Inner Width"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:124
+msgid "Full Width Background"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:125
+msgid "Full Content Background"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:132
+#: ../page_builder/add_ons/shortcode_addons.php:469
+#: ../page_builder/add_ons/shortcode_addons.php:873
+#: ../page_builder/aivah_sc/shortcode-generator.php:225
+#: ../page_builder/aivah_sc/shortcode-generator.php:681
+#: ../page_builder/aivah_sc/shortcode-generator.php:810
+#: ../page_builder/aivah_sc/shortcode-generator.php:1070
+msgid "Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:133
+msgid "Choose the text color you want to display for the  Text."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:143
+#: ../page_builder/add_ons/shortcode_addons.php:866
+#: ../page_builder/aivah_sc/shortcode-generator.php:215
+#: ../page_builder/aivah_sc/shortcode-generator.php:1060
+msgid "Background Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:144
+msgid "Choose the color you want to display for the background."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:146
+#: ../page_builder/add_ons/shortcode_addons.php:155
+#: ../page_builder/add_ons/shortcode_addons.php:180
+#: ../page_builder/add_ons/shortcode_addons.php:190
+#: ../page_builder/add_ons/shortcode_addons.php:204
+#: ../page_builder/add_ons/shortcode_addons.php:220
+#: ../page_builder/add_ons/shortcode_addons.php:241
+msgid "Background"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:152
+msgid "Background Image Upload"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:153
+msgid "Upload Image which you want to display for the  background"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:162
+msgid "Background patterns"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:163
+msgid "Select the pattern which you wish to display"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:167
+#: ../page_builder/add_ons/shortcode_addons.php:280
+msgid "pattern1.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:168
+#: ../page_builder/add_ons/shortcode_addons.php:281
+msgid "pat_01.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:169
+#: ../page_builder/add_ons/shortcode_addons.php:282
+msgid "pat_02.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:170
+#: ../page_builder/add_ons/shortcode_addons.php:283
+msgid "pat_03.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:171
+#: ../page_builder/add_ons/shortcode_addons.php:284
+msgid "pat_04.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:172
+#: ../page_builder/add_ons/shortcode_addons.php:285
+msgid "pat_05.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:173
+#: ../page_builder/add_ons/shortcode_addons.php:286
+msgid "pat_06.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:174
+#: ../page_builder/add_ons/shortcode_addons.php:287
+msgid "pat_07.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:175
+#: ../page_builder/add_ons/shortcode_addons.php:288
+msgid "pat_08.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:176
+#: ../page_builder/add_ons/shortcode_addons.php:289
+msgid "pat_09.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:177
+#: ../page_builder/add_ons/shortcode_addons.php:290
+msgid "pat_10.png"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:186
+#: ../page_builder/aivah_sc/shortcode-generator.php:1918
+msgid "Background Position"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:187
+msgid "Select the background position which you want to display "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:195
+msgid "Background Image Style"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:196
+msgid "Select the  background-attachment property which you want to display"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:210
+#: ../page_builder/aivah_sc/shortcode-generator.php:1905
+msgid "Background Repeat"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:211
+msgid "Select the background repeat which you want to display"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:225
+#: ../page_builder/add_ons/shortcode_addons.php:300
+msgid "Opacity"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:226
+#: ../page_builder/add_ons/shortcode_addons.php:301
+msgid "Select the opacity which you want to display"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:248
+msgid "Video Background : yes/no"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:249
+msgid "Check this if you wish display video Background"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:251
+#: ../page_builder/add_ons/shortcode_addons.php:429
+#: ../page_builder/add_ons/shortcode_addons.php:793
+#: ../page_builder/add_ons/shortcode_addons.php:1277
+#: ../page_builder/add_ons/shortcode_addons.php:1482
+#: ../page_builder/add_ons/shortcode_addons.php:1489
+#: ../page_builder/add_ons/shortcode_addons.php:1496
+#: ../page_builder/add_ons/shortcode_addons.php:1566
+#: ../page_builder/add_ons/shortcode_addons.php:1600
+msgid "Yes, please"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:252
+#: ../page_builder/add_ons/shortcode_addons.php:261
+#: ../page_builder/add_ons/shortcode_addons.php:270
+#: ../page_builder/add_ons/shortcode_addons.php:295
+#: ../page_builder/add_ons/shortcode_addons.php:316
+#: ../page_builder/add_ons/shortcode_addons.php:327
+msgid "Video"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:256
+msgid "Mp4 Format"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:257
+msgid "mp4 video path"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:265
+msgid "Web Format"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:275
+msgid "Video Overlay"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:276
+msgid "Select the pattern you wish to display"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:323
+msgid "Poster Image"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:333
+msgid "Border Style"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:337
+msgid "Solid"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:338
+msgid "Dotted"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:339
+msgid "Dashed"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:341
+#: ../page_builder/add_ons/shortcode_addons.php:350
+#: ../page_builder/add_ons/shortcode_addons.php:360
+#: ../page_builder/aivah_sc/shortcode-generator.php:1087
+msgid "Border"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:347
+msgid "Section Border top & bottom Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:348
+msgid "Choose the text color you want to display for the Text."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:356
+#: ../page_builder/add_ons/shortcode_addons.php:980
+#: ../page_builder/aivah_sc/shortcode-generator.php:1686
+msgid "Border Width"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:357
+msgid ""
+"Enter padding ex: 20px 0px 20px 0px. Make sure you don't use border width on "
+"left and right side. If you don't want border width then make it 0px not "
+"just 0"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:367
+msgid "Padding Top"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:368
+msgid "Enter padding-top ex: 20px. Make sure you don't percentage. "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:371
+#: ../page_builder/add_ons/shortcode_addons.php:381
+msgid "Other"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:377
+msgid "Padding Bottom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:378
+msgid "Enter padding-bottom ex: 20px. Make sure you don't percentage. "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:390
+#: ../page_builder/add_ons/shortcode_addons.php:947
+#: ../page_builder/aivah_sc/shortcode-generator.php:1649
+msgid "Heading Size"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:391
+msgid "Choose the heading size you wish to use."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:441
+#: ../page_builder/add_ons/shortcode_addons.php:1083
+#: ../page_builder/aivah_sc/shortcode-generator.php:360
+#: ../page_builder/aivah_sc/shortcode-generator.php:384
+#: ../page_builder/aivah_sc/shortcode-generator.php:1757
+#: ../page_builder/aivah_sc/shortcode-generator.php:2085
+#: ../page_builder/aivah_sc/shortcode-generator.php:2425
+#: ../page_builder/aivah_sc/shortcode-generator.php:2871
+msgid "Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:444
+msgid "Button color."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:450
+#: ../page_builder/aivah_sc/shortcode-generator.php:663
+#: ../page_builder/aivah_sc/shortcode-generator.php:801
+msgid "BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:459
+#: ../page_builder/aivah_sc/shortcode-generator.php:672
+msgid "Hover BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:479
+#: ../page_builder/aivah_sc/shortcode-generator.php:690
+msgid "Hover Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:489
+#: ../page_builder/aivah_sc/shortcode-generator.php:708
+msgid "Button Icon"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:503
+#: ../page_builder/add_ons/shortcode_addons.php:508
+#: ../page_builder/aivah_sc/shortcode-generator.php:250
+msgid "Drop Cap"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:507
+#: ../page_builder/add_ons/shortcode_addons.php:563
+#: ../page_builder/add_ons/shortcode_addons.php:629
+#: ../page_builder/add_ons/shortcode_addons.php:683
+#: ../page_builder/add_ons/shortcode_addons.php:760
+#: ../page_builder/add_ons/shortcode_addons.php:822
+#: ../page_builder/add_ons/shortcode_addons.php:891
+#: ../page_builder/add_ons/shortcode_addons.php:942
+#: ../page_builder/add_ons/shortcode_addons.php:1030
+#: ../page_builder/add_ons/shortcode_addons.php:1065
+#: ../page_builder/add_ons/shortcode_addons.php:1107
+#: ../page_builder/add_ons/shortcode_addons.php:1188
+#: ../page_builder/add_ons/shortcode_addons.php:1231
+#: ../page_builder/add_ons/shortcode_addons.php:1337
+#: ../page_builder/add_ons/shortcode_addons.php:1432
+#: ../page_builder/add_ons/shortcode_addons.php:1529
+msgid "Aivah"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:512
+#: ../page_builder/aivah_sc/shortcode-generator.php:254
+msgid "Dropcap Type"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:516
+msgid "Drop cap 1"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:517
+msgid "Drop cap 2"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:518
+msgid "Drop cap 3"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:525
+msgid "Dropcap Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:534
+#: ../page_builder/aivah_sc/shortcode-generator.php:277
+msgid "DropCap BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:544
+#: ../page_builder/aivah_sc/shortcode-generator.php:286
+msgid "DropCap Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:559
+#: ../page_builder/add_ons/shortcode_addons.php:564
+#: ../page_builder/aivah_sc/shortcode-generator.php:2725
+msgid "Contact Info"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:597
+#: ../page_builder/aivah_sc/shortcode-generator.php:2761
+msgid "Website"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:611
+#: ../page_builder/aivah_sc/shortcode-generator.php:2777
+msgid "Fax"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:625
+#: ../page_builder/add_ons/shortcode_addons.php:630
+#: ../page_builder/add_ons/shortcode_addons.php:646
+#: ../page_builder/aivah_sc/shortcode-generator.php:2800
+#: ../page_builder/aivah_sc/shortcode-generator.php:2818
+msgid "Milestone"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:633
+#: ../page_builder/add_ons/shortcode_addons.php:1192
+#: ../page_builder/aivah_sc/shortcode-generator.php:377
+#: ../page_builder/aivah_sc/shortcode-generator.php:2804
+msgid "Fontawesome Icon"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:639
+#: ../page_builder/add_ons/shortcode_addons.php:1041
+#: ../page_builder/add_ons/shortcode_addons.php:1199
+#: ../page_builder/aivah_sc/shortcode-generator.php:572
+#: ../page_builder/aivah_sc/shortcode-generator.php:2811
+msgid "Icon Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:653
+#: ../page_builder/aivah_sc/shortcode-generator.php:2825
+msgid "Milestone Speed"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:659
+#: ../page_builder/aivah_sc/shortcode-generator.php:2832
+msgid "Subject Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:665
+#: ../page_builder/aivah_sc/shortcode-generator.php:2839
+msgid "Milestone Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:679
+#: ../page_builder/add_ons/shortcode_addons.php:684
+#: ../page_builder/aivah_sc/shortcode-generator.php:1803
+msgid "Count Down"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:687
+msgid "title"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:694
+#: ../page_builder/aivah_sc/shortcode-generator.php:1814
+msgid "Year"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:701
+#: ../page_builder/aivah_sc/shortcode-generator.php:1822
+msgid "Month"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:721
+#: ../page_builder/aivah_sc/shortcode-generator.php:1843
+msgid "Day"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:728
+#: ../page_builder/aivah_sc/shortcode-generator.php:1851
+msgid "Hour"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:735
+#: ../page_builder/aivah_sc/shortcode-generator.php:1859
+msgid "Minute"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:742
+#: ../page_builder/aivah_sc/shortcode-generator.php:1867
+msgid "Class name"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:756
+#: ../page_builder/add_ons/shortcode_addons.php:761
+#: ../page_builder/aivah_sc/shortcode-generator.php:301
+msgid "Google Font"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:764
+#: ../page_builder/aivah_sc/shortcode-generator.php:305
+msgid "Google Font Name"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:765
+#: ../page_builder/aivah_sc/shortcode-generator.php:306
+msgid "Type the font you want to display."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:771
+#: ../page_builder/aivah_sc/shortcode-generator.php:313
+msgid "Google Font Size"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:772
+#: ../page_builder/aivah_sc/shortcode-generator.php:314
+msgid "Type the font size in px."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:777
+#: ../page_builder/aivah_sc/shortcode-generator.php:321
+msgid "Font Margin"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:778
+#: ../page_builder/aivah_sc/shortcode-generator.php:322
+msgid "Type the font margin in px."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:783
+#: ../page_builder/aivah_sc/shortcode-generator.php:329
+msgid "Font weight"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:784
+#: ../page_builder/aivah_sc/shortcode-generator.php:330
+msgid "Type the font weight (optional)."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:789
+#: ../page_builder/aivah_sc/shortcode-generator.php:337
+msgid "Font style"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:790
+#: ../page_builder/aivah_sc/shortcode-generator.php:338
+msgid "Check this if u want to display in Italic."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:796
+#: ../page_builder/aivah_sc/shortcode-generator.php:345
+msgid "Font extend"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:797
+#: ../page_builder/aivah_sc/shortcode-generator.php:346
+msgid "Type the font extendibility (optional)."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:803
+#: ../page_builder/aivah_sc/shortcode-generator.php:353
+msgid "Content Here"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:805
+#: ../page_builder/aivah_sc/shortcode-generator.php:354
+msgid "Type the text you wish to display ."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:818
+#: ../page_builder/add_ons/shortcode_addons.php:823
+#: ../page_builder/aivah_sc/shortcode-generator.php:163
+msgid "Block Quotes"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:826
+#: ../page_builder/add_ons/shortcode_addons.php:1047
+#: ../page_builder/add_ons/shortcode_addons.php:1169
+#: ../page_builder/aivah_sc/shortcode-generator.php:167
+#: ../page_builder/aivah_sc/shortcode-generator.php:499
+#: ../page_builder/aivah_sc/shortcode-generator.php:579
+#: ../page_builder/aivah_sc/shortcode-generator.php:2273
+msgid "Content"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:833
+#: ../page_builder/aivah_sc/shortcode-generator.php:174
+#: ../page_builder/aivah_sc/shortcode-generator.php:444
+#: ../page_builder/aivah_sc/shortcode-generator.php:759
+#: ../page_builder/aivah_sc/shortcode-generator.php:1390
+msgid "Align"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:845
+#: ../page_builder/aivah_sc/shortcode-generator.php:187
+msgid "Cite"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:852
+#: ../page_builder/aivah_sc/shortcode-generator.php:196
+msgid "Cite Link"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:859
+#: ../page_builder/add_ons/shortcode_addons.php:1436
+#: ../page_builder/aivah_sc/shortcode-generator.php:205
+#: ../page_builder/aivah_sc/shortcode-generator.php:1404
+#: ../page_builder/aivah_sc/shortcode-generator.php:2047
+#: ../page_builder/aivah_sc/shortcode-generator.php:2300
+msgid "Width"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:887
+#: ../page_builder/add_ons/shortcode_addons.php:892
+#: ../page_builder/aivah_sc/shortcode-generator.php:1574
+msgid "Highlight"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:895
+#: ../page_builder/aivah_sc/shortcode-generator.php:1578
+msgid "Highlight Types "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:907
+#: ../page_builder/aivah_sc/shortcode-generator.php:1590
+msgid "Highlight BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:915
+#: ../page_builder/aivah_sc/shortcode-generator.php:1598
+msgid "Highlight Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:923
+#: ../page_builder/add_ons/shortcode_addons.php:1569
+#: ../page_builder/aivah_sc/shortcode-generator.php:1606
+msgid "Highlight Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:938
+#: ../page_builder/add_ons/shortcode_addons.php:943
+#: ../page_builder/aivah_sc/shortcode-generator.php:1645
+msgid "Fancy Heading"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:954
+#: ../page_builder/aivah_sc/shortcode-generator.php:1657
+msgid "Heading Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:960
+msgid "Heading Background Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:966
+#: ../page_builder/aivah_sc/shortcode-generator.php:1666
+msgid "Heading Align"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:973
+#: ../page_builder/aivah_sc/shortcode-generator.php:1676
+msgid "Heading style"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:988
+#: ../page_builder/aivah_sc/shortcode-generator.php:1696
+msgid "Border styles"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:997
+#: ../page_builder/aivah_sc/shortcode-generator.php:1707
+msgid "Border Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1005
+#: ../page_builder/aivah_sc/shortcode-generator.php:1717
+msgid "Heading Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1012
+#: ../page_builder/aivah_sc/shortcode-generator.php:1724
+msgid "Heading Description"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1026
+#: ../page_builder/add_ons/shortcode_addons.php:1031
+msgid "List Styles"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1034
+#: ../page_builder/aivah_sc/shortcode-generator.php:565
+msgid "Font Awesome Icon"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1061
+#: ../page_builder/add_ons/shortcode_addons.php:1066
+#: ../page_builder/aivah_sc/shortcode-generator.php:2405
+msgid "Twitter Tweets"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1069
+#: ../page_builder/aivah_sc/shortcode-generator.php:2409
+msgid "Twitter Id"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1103
+#: ../page_builder/aivah_sc/shortcode-generator.php:416
+msgid "Icon Box"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1108
+msgid "Place content elements inside the row"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1111
+#: ../page_builder/aivah_sc/shortcode-generator.php:420
+msgid "Style Type"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1125
+#: ../page_builder/aivah_sc/shortcode-generator.php:436
+msgid "Add Font Awesome Icon Name"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1131
+#: ../page_builder/aivah_sc/shortcode-generator.php:460
+msgid "icon Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1139
+#: ../page_builder/aivah_sc/shortcode-generator.php:468
+msgid "Default Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1184
+#: ../page_builder/add_ons/shortcode_addons.php:1189
+#: ../page_builder/aivah_sc/shortcode-generator.php:373
+msgid "Font Awesome Icons"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1205
+#: ../page_builder/aivah_sc/shortcode-generator.php:392
+msgid "Select Icon Size"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1228
+#: ../page_builder/add_ons/shortcode_addons.php:1232
+#: ../page_builder/aivah_sc/shortcode-generator.php:1124
+msgid "Fancy Box"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1241
+#: ../page_builder/add_ons/shortcode_addons.php:1639
+#: ../page_builder/aivah_sc/shortcode-generator.php:1136
+msgid "Box Content"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1248
+#: ../page_builder/aivah_sc/shortcode-generator.php:1143
+msgid "Title Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1254
+#: ../page_builder/aivah_sc/shortcode-generator.php:1151
+msgid "Title BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1260
+#: ../page_builder/aivah_sc/shortcode-generator.php:1160
+msgid "Content BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1266
+#: ../page_builder/aivah_sc/shortcode-generator.php:1168
+msgid "Content Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1273
+#: ../page_builder/aivah_sc/shortcode-generator.php:1177
+msgid "Corner Ribben"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1280
+#: ../page_builder/aivah_sc/shortcode-generator.php:1185
+msgid "Ribbon Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1288
+#: ../page_builder/aivah_sc/shortcode-generator.php:1194
+msgid "Ribbon Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1313
+#: ../page_builder/aivah_sc/shortcode-generator.php:1228
+msgid "Ribbon Size"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1334
+#: ../page_builder/add_ons/shortcode_addons.php:1338
+msgid "Dividers"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1341
+msgid "style:"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1360
+#: ../page_builder/aivah_sc/shortcode-generator.php:979
+msgid "Margin:"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1368
+#: ../page_builder/aivah_sc/shortcode-generator.php:988
+msgid "Border Color:"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1376
+msgid "Section:"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1388
+msgid "Position:"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1403
+#: ../page_builder/add_ons/shortcode_addons.php:1442
+#: ../page_builder/aivah_sc/shortcode-generator.php:1002
+#: ../page_builder/aivah_sc/shortcode-generator.php:1412
+#: ../page_builder/aivah_sc/shortcode-generator.php:2055
+#: ../page_builder/aivah_sc/shortcode-generator.php:2308
+msgid "Height"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1411
+#: ../page_builder/aivah_sc/shortcode-generator.php:518
+#: ../page_builder/aivah_sc/shortcode-generator.php:1016
+msgid "Upload Image"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1429
+msgid "Aivah Map"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1433
+msgid "Google map"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1454
+#: ../page_builder/aivah_sc/shortcode-generator.php:2325
+msgid "Latitude"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1460
+#: ../page_builder/aivah_sc/shortcode-generator.php:2332
+msgid "longitude"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1466
+#: ../page_builder/aivah_sc/shortcode-generator.php:2339
+msgid "Zoom"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1472
+#: ../page_builder/aivah_sc/shortcode-generator.php:2347
+msgid "Marker Description"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1478
+#: ../page_builder/aivah_sc/shortcode-generator.php:2355
+msgid "Info Window"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1485
+#: ../page_builder/aivah_sc/shortcode-generator.php:2363
+msgid "Controller"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1492
+#: ../page_builder/aivah_sc/shortcode-generator.php:2371
+msgid "Visibility"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1499
+#: ../page_builder/aivah_sc/shortcode-generator.php:2379
+msgid "Google map stylers Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1505
+#: ../page_builder/aivah_sc/shortcode-generator.php:2386
+msgid "Gmap Types"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1526
+#: ../page_builder/add_ons/shortcode_addons.php:1530
+msgid "Pricing Table"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1545
+msgid "Check this if you wish to display pricing boxes in group"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1548
+msgid "Heading Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1555
+msgid "Heading BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1562
+msgid "Most Popular"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1578
+msgid "Currency"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1584
+msgid "Price"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1590
+msgid "Per Month Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1596
+msgid "Summary"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1604
+msgid "Summary Text"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1612
+msgid "Price BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1619
+msgid "Price Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1626
+msgid "Content Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1633
+msgid "Content Bg Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1647
+msgid "Button Colors"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1656
+msgid "Button BG Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1664
+msgid "Button Text Color"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1680
+#: ../page_builder/aivah_sc/shortcode-generator.php:734
+#: ../page_builder/aivah_sc/shortcode-generator.php:818
+#: ../page_builder/aivah_sc/shortcode-generator.php:1365
+msgid "Link URL"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1686
+#: ../page_builder/aivah_sc/shortcode-generator.php:742
+#: ../page_builder/aivah_sc/shortcode-generator.php:895
+msgid "Link Target "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1690
+msgid "Check this if you wish to display in new tab "
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1694
+msgid "Button Position"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcode_addons.php:1698
+msgid "Check this if you want to display below the price box"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_blogcarousel.php:86 ../search.php:19
+msgid "0 Comment"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_button2.php:4
+msgid "Text on the button"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_tab.php:12
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_tabs.php:54
+msgid "Previous slide"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_tabs.php:54
+msgid "Next slide"
+msgstr ""
+
+#: ../page_builder/add_ons/shortcodes/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+#: ../page_builder/aivah_sc/index.php:148
+msgid "Aivah Shortcodes"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:8
+msgid "Column Layouts"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:15
+msgid "1/2 + 1/2"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:24
+msgid "1/3 + 1/3 + 1/3"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:33
+msgid "1/4 + 1/4 + 1/4 + 1/4"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:42
+msgid "1/5 + 1/5 + 1/5 + 1/5 + 1/5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:51
+msgid "1/6 + 1/6 + 1/6 + 1/6 + 1/6 + 1/6"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:60
+msgid "1/3 + 2/3"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:69
+msgid "2/3 + 1/3"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:78
+msgid "1/4 + 3/4"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:87
+msgid "3/4 + 1/4"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:96
+msgid "1/4 + 1/4 + 1/2"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:105
+msgid "1/2 + 1/4 + 1/4"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:114
+msgid "1/4 + 1/2 + 1/4"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:123
+msgid "1/5 + 4/5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:132
+msgid "4/5 + 1/5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:141
+msgid "2/5 + 3/5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:150
+msgid "3/5 + 2/5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:235
+#: ../page_builder/aivah_sc/shortcode-generator.php:546
+#: ../page_builder/aivah_sc/shortcode-generator.php:935
+#: ../page_builder/aivah_sc/shortcode-generator.php:1243
+#: ../page_builder/aivah_sc/shortcode-generator.php:1297
+#: ../page_builder/aivah_sc/shortcode-generator.php:1420
+#: ../page_builder/aivah_sc/shortcode-generator.php:1788
+#: ../page_builder/aivah_sc/shortcode-generator.php:2281
+#: ../page_builder/aivah_sc/shortcode-generator.php:2436
+#: ../page_builder/aivah_sc/shortcode-generator.php:2584
+#: ../page_builder/aivah_sc/shortcode-generator.php:2708
+#: ../page_builder/aivah_sc/shortcode-generator.php:2785
+msgid "Animations"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:268
+msgid "DropCap Text"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:361
+msgid "Choose the color you wish to display ."
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:514
+msgid "Services"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:532
+msgid "Link"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:539
+msgid "Link Text"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:561
+msgid "List"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:592
+msgid "Button"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:596
+msgid "Button Style"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:608
+#: ../page_builder/aivah_sc/shortcode-generator.php:904
+msgid "Button Size"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:622
+#: ../page_builder/aivah_sc/shortcode-generator.php:855
+#: ../page_builder/aivah_sc/shortcode-generator.php:878
+msgid "Defualt Colors"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:647
+msgid "Default Colors"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:718
+msgid "ID"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:726
+#: ../page_builder/aivah_sc/shortcode-generator.php:1356
+msgid "Class"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:750
+#: ../page_builder/aivah_sc/shortcode-generator.php:1382
+msgid "Lightbox"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:773
+msgid "Full Width"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:781
+msgid "Button Width"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:797
+msgid "Callout Box"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:825
+msgid "Full Width "
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:840
+msgid "Button Style "
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:927
+msgid "Callout Content"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:952
+#: ../page_builder/aivah_sc/shortcode-generator.php:962
+msgid "Divider"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:957
+msgid "Clear Both"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:966
+msgid "Style:"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:998
+msgid "Demo Space"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1012
+msgid "Custom Divider"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1032
+msgid "Alert Boxes"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1043
+msgid "Message Type"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1080
+msgid "Message Text"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1099
+msgid "Size"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1110
+msgid "Close"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1219
+msgid "Ribbon Custom Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1258
+msgid "Accordion"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1262
+msgid "Accordion Type"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1274
+msgid "Accordion Mode"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1285
+msgid "Accordion Limit"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1316
+msgid "Image URL"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1332
+msgid "Caption"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1342
+msgid "Tooltip Position"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1374
+msgid "Link Target"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1448
+#: ../page_builder/aivah_sc/shortcode-generator.php:1554
+msgid "Blog Posts Limit"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1455
+msgid "Blog Post Meta"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1462
+#: ../page_builder/aivah_sc/shortcode-generator.php:1526
+msgid "Pagination"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1479
+msgid "Testimonials Select"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1502
+msgid "Fade Speed"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1510
+msgid "Testimonial  Limit"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1518
+msgid "Testimonial Items Limit"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1540
+msgid "Blog Carousel"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1555
+msgid "Number of posts to fetch from database."
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1561
+msgid "Carousel Items"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1562
+msgid "Number of Items to show per carousel"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1620
+msgid "Fancy Ampersand"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1624
+msgid "Ampersand Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1631
+msgid "Ampersand Size"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1737
+msgid "Progress Bar"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1741
+msgid "Percentage"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1771
+msgid "Progress Circle"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1775
+msgid "Progress Circle Columns"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1880
+msgid "Section Fullwidth"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1884
+msgid "Section BG Image"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1892
+msgid "Background Attachment"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1936
+msgid "patterns"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1951
+msgid "Section Opacity"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1972
+msgid "Background Video?"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1985
+msgid "Section Video URL"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:1993
+msgid "Parallax Background"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2002
+msgid "Section BG Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2010
+msgid "Section Text Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2017
+msgid "Section Padding"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2031
+msgid "SoundCloud"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2036
+msgid "Sound Type"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2037
+msgid "Select the audio type"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2041
+msgid "HTML5"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2042
+msgid "Flash"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2048
+msgid "Use px as units for width"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2056
+msgid "Use px as units for height"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2063
+msgid "Audio ID"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2064
+msgid ""
+"Enter the ID only from the clips URL (e.g. http://api.soundcloud.com/tracks/"
+"<span style=\"color:red\">123456789</span>)"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2071
+msgid "Show Artwork"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2072
+msgid "Check this if you wish to enable Artwork option."
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2078
+#: ../page_builder/aivah_sc/shortcode-generator.php:2911
+#: ../page_builder/aivah_sc/shortcode-generator.php:2935
+msgid "Autoplay"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2079
+msgid "Check this if you wish to enable auto play option."
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2086
+msgid "Select the color for the playes"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2098
+msgid "Staff Box"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2102
+msgid "Photo"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2118
+msgid "Role"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2126
+msgid "Sociables"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2136
+msgid "Blogger"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2145
+msgid "Dribbble"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2155
+msgid "Delicious"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2164
+msgid "Digg"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2173
+msgid "Facebook"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2182
+msgid "Flickr"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2191
+msgid "Forrst"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2200
+msgid "Google"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2209
+msgid "Linkedin"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2218
+msgid "Pinterest"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2227
+msgid "Skype"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2236
+msgid "Stumbleupon"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2245
+msgid "Twitter"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2254
+msgid "Yahoo"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2263
+#: ../page_builder/aivah_sc/shortcode-generator.php:2924
+msgid "Youtube"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2296
+msgid "Google Map"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2452
+msgid "Flickr Photos"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2456
+msgid "Flickr Id"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2483
+msgid "Display"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2500
+msgid "Tabs"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2505
+msgid "2 Tabs"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2509
+#: ../page_builder/aivah_sc/shortcode-generator.php:2601
+msgid "Tab 1 Title"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2517
+#: ../page_builder/aivah_sc/shortcode-generator.php:2609
+msgid "Tab 1 Content"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2524
+#: ../page_builder/aivah_sc/shortcode-generator.php:2616
+msgid "Tab 1 Bgcolor"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2531
+#: ../page_builder/aivah_sc/shortcode-generator.php:2623
+msgid "Tab 1 Title Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2538
+#: ../page_builder/aivah_sc/shortcode-generator.php:2570
+#: ../page_builder/aivah_sc/shortcode-generator.php:2630
+#: ../page_builder/aivah_sc/shortcode-generator.php:2662
+#: ../page_builder/aivah_sc/shortcode-generator.php:2694
+msgid "Separator"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2541
+#: ../page_builder/aivah_sc/shortcode-generator.php:2633
+msgid "Tab 2 Title"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2549
+#: ../page_builder/aivah_sc/shortcode-generator.php:2641
+msgid "Tab 2 Content"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2556
+#: ../page_builder/aivah_sc/shortcode-generator.php:2648
+msgid "Tab 2 Bgcolor"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2563
+#: ../page_builder/aivah_sc/shortcode-generator.php:2655
+msgid "Tab 2 Title Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2573
+#: ../page_builder/aivah_sc/shortcode-generator.php:2697
+msgid "Tabs Type  "
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2597
+msgid "3 Tabs"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2665
+msgid "Tab 3 Title"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2673
+msgid "Tab 3 Content"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2680
+msgid "Tab 3 Bgcolor"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2687
+msgid "Tab 3 Title Color"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2852
+msgid "Process Steps"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2857
+msgid "Steps"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2899
+msgid "Vimeo"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:2903
+#: ../page_builder/aivah_sc/shortcode-generator.php:2928
+msgid "Clip id"
+msgstr ""
+
+#: ../page_builder/aivah_sc/shortcode-generator.php:3142
+msgid "Add More"
+msgstr ""
+
+#: ../searchform.php:4
+msgid "Search"
+msgstr ""
+
+#: ../share-link.php:45
+msgid "Share This Post!"
+msgstr ""
+
+#: ../single-slider.php:57 ../single.php:58
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: ../template_sitemap.php:18
+msgid "Pages"
+msgstr ""
+
+#: ../template_sitemap.php:23
+msgid "Feeds"
+msgstr ""
+
+#: ../template_sitemap.php:25
+msgid "Main RSS"
+msgstr ""
+
+#: ../template_sitemap.php:26
+msgid "Comment Feed"
+msgstr ""
+
+#: ../theme_functions.php:16
+msgid "Sticky"
+msgstr ""
+
+#: ../theme_functions.php:61
+msgid "&larr; Previous"
+msgstr ""
+
+#: ../theme_functions.php:62
+msgid "Next &rarr;"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:16 ../tribe-events/pro/photo/nav.php:20
+msgid "Events List Navigation"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:22 ../tribe-events/list/nav.php:28
+#: ../tribe-events/list/nav.php:31
+msgid "&laquo; Previous Events"
+msgstr ""
+
+#: ../tribe-events/list/nav.php:40 ../tribe-events/list/nav.php:43
+#: ../tribe-events/list/nav.php:49
+msgid "Next Events &raquo;"
+msgstr ""
+
+#: ../tribe-events/list/single-event.php:79
+#: ../tribe-events/pro/map/single-event.php:80
+msgid "Find out more"
+msgstr ""
+
+#: ../tribe-events/modules/bar.php:30 ../tribe-events/modules/bar.php:53
+msgid "Find Events"
+msgstr ""
+
+#: ../tribe-events/pro/photo/nav.php:23
+msgid "<span>&laquo;</span> Previous Events"
+msgstr ""
+
+#: ../tribe-events/pro/photo/nav.php:30
+msgid "Next Events <span>&raquo;</span>"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:103
+msgid "Show only the first upcoming instance of recurring events"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:227
+#: ../tribe-events/pro/week/public/template-tags/general.php:240
+#: ../tribe-events/pro/week/public/template-tags/general.php:252
+#: ../tribe-events/pro/week/public/template-tags/general.php:253
+#: ../tribe-events/pro/week/public/template-tags/general.php:265
+#: ../tribe-events/pro/week/public/template-tags/general.php:266
+#: ../tribe-events/pro/week/public/template-tags/general.php:278
+#: ../tribe-events/pro/week/public/template-tags/general.php:279
+#: ../tribe-events/pro/week/public/template-tags/general.php:291
+#: ../tribe-events/pro/week/public/template-tags/general.php:292
+#: ../tribe-events/pro/week/public/template-tags/general.php:304
+#: ../tribe-events/pro/week/public/template-tags/general.php:305
+#: ../tribe-events/pro/week/public/template-tags/general.php:317
+#: ../tribe-events/pro/week/public/template-tags/general.php:318
+#: ../tribe-events/pro/week/public/template-tags/general.php:330
+#: ../tribe-events/pro/week/public/template-tags/general.php:331
+msgid "No default set"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:229
+#, php-format
+msgid "The current default organizer is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:242
+#, php-format
+msgid "The current default venue is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:255
+#, php-format
+msgid "The current default address is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:268
+#, php-format
+msgid "The current default city is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:281
+#, php-format
+msgid "The current default state is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:294
+#, php-format
+msgid "The current default province is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:307
+#, php-format
+msgid "The current default postal code/zip code is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:320
+#, php-format
+msgid "The current default country is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:333
+#, php-format
+msgid "The current default phone is: %s"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:476
+#: ../tribe-events/pro/week/public/template-tags/general.php:495
+msgid "Date out of range."
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:591
+msgid "Recurring Event"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/general.php:594
+msgid "(See all)"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/week.php:237
+msgid "<span>&laquo;</span> Previous Week"
+msgstr ""
+
+#: ../tribe-events/pro/week/public/template-tags/week.php:253
+msgid "Next Week <span>&raquo;</span>"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/countdown-widget.php:18
+msgid "days"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/countdown-widget.php:22
+msgid "hours"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/countdown-widget.php:26
+msgid "min"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/countdown-widget.php:31
+msgid "sec"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/list-widget.php:102
+msgid "Organizer:"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/list-widget.php:121
+msgid "View More&hellip;"
+msgstr ""
+
+#: ../tribe-events/pro/widgets/list-widget.php:128
+msgid "There are no upcoming events at this time."
+msgstr ""
+
+#: ../tribe-events/pro/widgets/venue-widget.php:31
+msgid "No upcoming events."
+msgstr ""
+
+#: ../tribe-events/pro/widgets/venue-widget.php:52
+#, php-format
+msgid "View all Events at this %s"
+msgstr ""
+
+#: ../widget-templates/widget-archives.php:47
+#, php-format
+msgid "%1$s %2$d"
+msgstr ""
+
+#: ../widget-templates/widget-archives.php:74
+msgid "Select Month"
+msgstr ""
+
+#: ../widget-templates/widget-categories.php:53
+msgid "Select One"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:65
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:84
+msgid "Read Online"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:88
+msgid "Watch Video"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:92
+msgid "Listen to Audio"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:96
+msgid "Download PDF"
+msgstr ""
+
+#: ../widget-templates/widget-sermons.php:115
+msgid "There are no sermons to show."
+msgstr ""

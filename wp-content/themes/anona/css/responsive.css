@@ -1,0 +1,542 @@
+/* Responsive CSS
+ * Author : MAQK
+ * Author URI : www.aivahthemes.com
+======================================================================== */
+
+
+/* Mobile Menu
+======================================================================== */
+
+@media only screen and (max-width : 959px ) {
+	figure img { width: auto; max-width: 100%; height: auto; }
+	.iva-mobile-dropdown {
+		display:block;
+		margin:0 0 0 auto;
+		height: 35px;
+		width: 40px;
+		position: relative;
+		cursor: pointer;
+		display: block;
+		background: #cccccc url(../images/menu-icon.png) 0 0 no-repeat;
+	}
+	.sf-menu,
+	.dcjq-mega-menu{ display:none !important; }
+	.logo img { transform:scale(1); }
+	.icn_wrap { display: none; }
+
+	.header .header-area { height: 100% !important; display: block; width: 95%;}
+	.logo { display: block; padding: 30px 60px 30px 0;}
+	.mmenu_wrap, .menuwrap { position: absolute !important; top: 50%; margin-top: -20px !important; right: 0; }
+	.iva-children-indenter { display:block; }
+	
+	/* MiniCart Hidden */
+	.minicart-wrap{ display: none!important; }
+
+}
+
+/* Devices Less than 768 pixels display
+======================================================================== */
+@media only screen and (max-width : 767px ) {
+
+	.nomargin.one_half,	.nomargin.one_third, .nomargin.two_third, 
+	.nomargin.one_fourth, .nomargin.one_fifth, .nomargin.four_fifth, 
+	.nomargin.one_sixth, .nomargin.five_sixth, .nomargin.two_fifth, 
+	.nomargin.three_fifth, .nomargin.three_fourth {
+		margin-bottom: 20px;
+		float: none;
+		width: 100%;
+	}
+
+	.partial_section_image { display: block; width: 100%; }
+	.partial_section_content { display: block; width: 100%; }
+	.iva-pests { margin: 0 0 10px 0 !important; }
+
+}
+
+/* Regular Desktop Resolution 
+======================================================================== */
+
+@media only screen and (min-width : 1025px) and (max-width : 1169px) {
+	
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header .header-area,
+	.subheader-inner,
+	.iva_appt_inner {  width: 1000px !important; }
+
+	.leftsidebar .content-area,
+	.rightsidebar .content-area { }
+
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none;  }
+
+}
+
+/* Small Desktop Resolution and iPad Landscape
+======================================================================== */
+@media only screen and (min-width : 960px) and (max-width : 1024px) {
+	
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position: relative !important; }
+
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header-area,
+	.page_content,
+	.menu-inner,
+	.iva_mmenu,
+	.subheader-inner {  width: 940px !important;  }
+
+	.header .menu-dropdown {  display: block; right: 0px !important; float: right; }
+	.header-style4 .search-box { display:none !important; } 
+	
+	.callOutBox .callout_text { float: none;}
+	.callout_text .fancyheading { text-align: center; }
+	.callOutBox .callout_btn { float: none; margin: 0 auto; display: table; }
+}
+
+/* iPad Portrait
+======================================================================== */
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+
+	.wpb_column { margin-bottom:15px; }
+	.vc_col-sm-4,
+	.vc_col-sm-8 { width:100% !important;}
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position:relative; }
+
+	.callOutBox .callout_btn { float: left !important; margin-left: 10px; margin-top: 10px; }
+
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.inner,
+	.pagemid > .inner,
+	.videoslider,
+	.header-area,
+	.page_content,
+	.section_inner,
+	.iva_mmenu,
+	.subheader-inner {  width: 640px !important;  }
+
+	.header-style2 .menu-inner { width: auto !important; }
+
+	.header-style2 .primarymenu { border: none; display: table-cell; margin: 0 0 0 auto; padding: 0; position: relative; vertical-align: middle; }
+	.header-style2 .logo { display: table-cell; margin:0 auto 0 0; }
+	.header-style4 .iva-mobile-dropdown,
+	.header-style3 .iva-mobile-dropdown { margin:24px 0 0 auto; }
+
+	.leftsidebar .content-area,
+	.rightsidebar .content-area { 
+		float: none; 
+		width: auto; 
+		padding-left:0; 
+		padding-right:0; 
+		border: none;
+	}
+
+	/* Footer 2 Columns */
+	.one_fourth { width: 48%; }
+	.one_fourth:nth-child(even) { margin-right: 0;}
+
+	.rightsidebar #sidebar,
+	.leftsidebar #sidebar { float:left; width:100%; }
+
+	.rightsidebar #sidebar .content { padding-left:0; border:none; }
+	.leftsidebar #sidebar .content { padding-right:0; border:none; }
+	.section_bg { background-image: none !important;}
+	.flex-caption, .header-style4 .search-box { display:none !important; }	
+	.check-wrap { margin-left: 0; display: inline-block; }
+
+	.partial_section_image { display: block; width: 100%; }
+	.partial_section_content { display: block; width: 100%; }
+}
+
+/* Smartphones and iPhone 4s(landscape)
+======================================================================== */
+@media only screen and (min-width: 320px) and (max-width: 480px) {
+
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position:relative; }
+	.wpb_column { margin-bottom:15px;}	
+	.callOutBox .callout_btn { float: left !important; margin-left: 10px; margin-top: 10px; }	
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.leftsidebar .content-area { float:none; width: auto; padding-left:0; border: none; }
+	.rightsidebar .content-area { float:none; width: auto; padding-right:0; border: none; }
+
+	.sermon-thumb,
+	.iva-location-image { display: block !important; float: none !important; width: auto !important; margin-right:0 !important; }
+
+	.iva-location-indetails,
+	.iva-location-details { display: block !important; width: auto !important; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header-area,
+	.subheader-inner,
+	.menu-inner,
+	.iva_mmenu,
+	.page_content {  width: 90% !important;  }
+
+	.rightsidebar #sidebar,
+	.leftsidebar #sidebar { float:left; width:100%; }
+
+	.rightsidebar #sidebar .content {padding-left:0; border:none;}
+	.leftsidebar #sidebar .content {padding-right:0; border:none;}
+
+	.header-style2 .primarymenu { border: none; display: table-cell; margin: 0 0 0 auto; padding: 0; position: relative; vertical-align: middle; }
+	.header-style2 .logo { display: table-cell; margin:0 auto 0 0; }
+	.header-style4 .iva-mobile-dropdown,
+	.header-style3 .iva-mobile-dropdown { margin:24px 0 0 auto; }
+	.one_half,
+	.one_third, 
+	.two_third,
+	.one_fourth, 
+	.one_fifth,
+	.four_fifth,
+	.one_sixth,
+	.five_sixth,
+	.two_fifth,
+	.three_fifth,
+	.three_fourth { width: 100%;  margin-right:0; }
+
+	.section_bg { background-image: none !important;}
+	.topbar * { text-align:center !important; }
+
+	.copyright_left, 
+	.copyright_right { width:100%; float:none; text-align:center; }
+
+	.pricetable .column { float: none; width: 100%; border-width:1px; margin-bottom: 20px; }
+	.post-metadata { display: none; }
+
+	.subdesc,
+	.breadcrumbs { float: none !important; display: block !important; }
+
+	.iva_one_half, .iva_one_third  { width:100%;}
+	.iva-testimonial { display:block; border-width:0 0 1px 0; }
+
+	.vertabs .tabs { float: none; width:100%; }
+	.vertabs .tabs li { border-width:1px 1px 0; }
+	.vertabs .tabs li:last-child { border-width:1px 1px 1px 1px; }
+
+	.iva-np-title { display:none;}
+	.iva-np-allitems,
+	.iva-np-navs { width: 160px;}
+
+	.flex-caption,
+	.header-style4 .search-box { display:none !important; } 
+
+	.tc-details { float: none; margin-bottom: 15px; }
+	.header-style2 .menu-dropdown { margin-top: 30px;}
+
+	/* New Fixes */
+	.fancyheading .xlarge { font-size: 30px !important; }
+	.fancyheading .large { font-size: 26px !important; }
+	.vertabs .tabs li, .hortabs .tabs li { width: 100%; float: none; }	
+
+	blockquote.alignright,
+	blockquote.alignleft,
+	blockquote.aligncenter { width: 100% !important; margin-right:0 !important; margin-left:0 !important;}
+}
+
+/* iPhone 5s(landscape)
+======================================================================== */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position:relative; }
+	.wpb_column { margin-bottom:15px;}	
+	.callOutBox .callout_btn { float: left !important; margin-left: 10px; margin-top: 10px; }	
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header-area,
+	.subheader-inner,
+	.menu-inner,
+	.iva_mmenu,
+	.page_content { width: 80% !important; }
+
+	.header-style2 .primarymenu { border: none; display: table-cell; margin: 0 0 0 auto; padding: 0; position: relative; vertical-align: middle; }
+	.header-style2 .logo { display: table-cell; margin:0 auto 0 0; }
+	.header-style4 .iva-mobile-dropdown,
+	.header-style3 .iva-mobile-dropdown { margin:24px 0 0 auto; }
+
+	.rightsidebar #sidebar,
+	.leftsidebar #sidebar { float:left; width:100%; }
+
+	.leftsidebar .content-area { float:none; width: auto; padding-left:0; border: none; }
+	.rightsidebar .content-area { float:none; width: auto; padding-right:0; border: none; }
+
+	.rightsidebar #sidebar .content {padding-left:0; border:none;}
+	.leftsidebar #sidebar .content {padding-right:0; border:none;}
+
+	.subdesc,
+	.breadcrumbs { float: none !important; display: block !important; }
+
+	.one_half,
+	.one_third, 
+	.two_third,
+	.one_fourth, 
+	.one_fifth,
+	.four_fifth,
+	.one_sixth,
+	.five_sixth,
+	.two_fifth,
+	.three_fifth,
+	.three_fourth { width: 100%;  margin-right:0; }
+
+	.section_bg { background-image: none !important;}
+	.topbar * { text-align:center !important; }
+
+	.copyright_left, 
+	.copyright_right { width:100%; float:none; text-align:center; }
+
+	.pricetable .column { float: none; width: 100%; border-width:1px; margin-bottom: 20px; }
+	.post-metadata { display: none; }
+	.iva_one_half, .iva_one_third { width:100%;}
+	.iva-testimonial { display:block; border-width:0 0 1px 0; }
+
+	.vertabs .tabs { float: none; width:100%; }
+	.vertabs .tabs li { border-width:1px 1px 0; }
+	.vertabs .tabs li:last-child { border-width:1px 1px 1px 1px; }
+
+	.iva-np-title { display:none;}
+	.iva-np-allitems,
+	.iva-np-navs { width: 160px;}
+
+	.flex-caption,
+	.header-style4 .search-box { display:none !important; } 
+
+	.tc-details { float: none; margin-bottom: 15px; }
+	.header-style2 .menu-dropdown { margin-top: 30px;}
+
+	/* New Fixes */
+	.fancyheading .xlarge { font-size: 30px !important; }
+	.fancyheading .large { font-size: 26px !important; }
+	.vertabs .tabs li, .hortabs .tabs li { width: 100%; float: none; }
+
+	blockquote.alignright,
+	blockquote.alignleft,
+	blockquote.aligncenter { width: 100% !important; margin-right:0 !important; margin-left:0 !important;}
+}
+
+/* Smartphones  and iPhone 4s (portrait) 
+======================================================================== */
+@media only screen and (max-width : 320px) {
+
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position:relative; }
+
+	.wpb_column { margin-bottom:15px;}	
+	.callOutBox .callout_btn { float: left !important; margin-left: 10px; margin-top: 10px; }	
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header .inner,
+	.subheader-inner,
+	.iva_mmenu,
+	.page_content {  width: 90% !important;  }
+
+	.header-style2 .primarymenu { border: none; display: table-cell; margin: 0 0 0 auto; padding: 0; position: relative; vertical-align: middle; }
+	.header-style2 .logo { display: table-cell; margin:0 auto 0 0; }
+	.header-style4 .iva-mobile-dropdown,
+	.header-style3 .iva-mobile-dropdown { margin:24px 0 0 auto; }
+
+	.leftsidebar .content-area { float:none; width: auto; padding-left:0; border: none; }
+	.rightsidebar .content-area { float:none; width: auto; padding-right:0; border: none; }
+
+	.sermon-thumb,
+	.iva-location-image { float: none !important; width: auto !important; margin-right:0 !important; }
+
+	.iva-location-indetails,
+	.iva-location-details { width: auto !important; }
+
+	.rightsidebar #sidebar,
+	.leftsidebar #sidebar { float:left; width:100%; }
+
+	.rightsidebar #sidebar .content { padding-left:0; }
+	.leftsidebar #sidebar .content { padding-right:0; }
+
+	.one_half,
+	.one_third, 
+	.two_third,
+	.one_fourth, 
+	.one_fifth,
+	.four_fifth,
+	.one_sixth,
+	.five_sixth,
+	.two_fifth,
+	.three_fifth,
+	.three_fourth { width: 100%; margin-right:0; }
+
+	.section_bg { background-image: none !important;}
+
+	.topbar * { text-align:center !important; }
+
+	.copyright_left, 
+	.copyright_right { width:100%; float:none; text-align:center; }
+
+	.pricetable .column { float: none; width: 100%; border-width:1px; margin-bottom: 20px; }
+
+	.subdesc,
+	.breadcrumbs { float: none !important; display: block !important; }
+
+	.iva_one_half, .iva_one_third { width:100%;}
+	.iva-testimonial { display:block; border-width:0 0 1px 0; }
+
+	.vertabs .tabs { float: none; width:100%; }
+	.vertabs .tabs li { border-width:1px 1px 0; }
+	.vertabs .tabs li:last-child { border-width:1px 1px 1px 1px; }
+
+	.iva-np-title { display:none;}
+	.iva-np-allitems,
+	.iva-np-navs { width: 160px;}
+
+	.flex-caption, 
+	.header-style4 .search-box { display:none !important; } 
+
+	.tc-details { float: none; margin-bottom: 15px; }
+	.header-style2 .menu-dropdown { margin-top: 30px;}
+
+	/* New Fixes */
+	.fancyheading .xlarge { font-size: 30px !important; }
+	.fancyheading .large { font-size: 26px !important; }
+	.vertabs .tabs li, .hortabs .tabs li { width: 100%; float: none; }	 
+
+	blockquote.alignright,
+	blockquote.alignleft,
+	blockquote.aligncenter { width: 100% !important; margin-right:0 !important; margin-left:0 !important;}
+}
+
+/* Small Mobile Devices
+======================================================================== */
+@media only screen and (min-width: 240px) and (max-width: 319px) {
+
+	figure img { width: auto; max-width: 100%; height: auto; }
+	img { width:auto; max-width:100%; }
+
+	.fixed-header { position:relative; }
+	.wpb_column { margin-bottom:15px;}	
+	.callOutBox .callout_btn { float: left !important; margin-left: 10px; margin-top: 10px; }	
+	#boxed #wrapper { width: auto !important; margin:0 auto; -webkit-box-shadow: none; box-shadow: none; }
+
+	.header-style2 .primarymenu { border: none; display: table-cell; margin: 0 0 0 auto; padding: 0; position: relative; vertical-align: middle; }
+	.header-style2 .logo { display: table-cell; margin:0 auto 0 0; }
+	.header-style4 .iva-mobile-dropdown,
+	.header-style3 .iva-mobile-dropdown { margin:24px 0 0 auto; }
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header .inner,
+	.subheader-inner,
+	.iva_mmenu,
+	.menu-inner,
+	.page_content {  width: 90% !important;  }
+
+	.header-style2  {  }
+
+	.leftsidebar .content-area { width: auto; padding-left:0; border: none; }
+	.rightsidebar .content-area { width: auto; padding-right:0; border: none; }
+
+	.sermon-thumb,
+	.iva-location-image { float: none !important; width: auto !important; margin-right:0 !important; }
+
+	.iva-location-indetails,
+	.iva-location-details { width: auto !important; }
+
+	.rightsidebar #sidebar,
+	.leftsidebar #sidebar { float:left; width:100%; }
+
+	.rightsidebar #sidebar .content { padding-left:0; }
+	.leftsidebar #sidebar .content { padding-right:0; }
+
+	.inner,
+	.pagemid > .inner,
+	.section_inner,
+	.videoslider,
+	.header .inner,
+	.subheader-inner,
+	.iva_appt_inner ,
+	.leftsidebar .content-area,
+	.rightsidebar .content-area { width: 200px; }
+
+	.one_half,
+	.one_third, 
+	.two_third,
+	.one_fourth, 
+	.one_fifth,
+	.four_fifth,
+	.one_sixth,
+	.five_sixth,
+	.two_fifth,
+	.three_fifth,
+	.three_fourth { width: 200px;  margin-right:0; }
+
+	.section_bg { background-image: none !important;}
+
+	.topbar * { text-align:center !important; }
+
+	.copyright_left, 
+	.copyright_right { width:100%; float:none; text-align:center; }
+
+	.pricetable .column { float: none; width: 100%; border-width:1px; margin-bottom: 20px; }
+
+	.post-metadata { display: none; }
+
+	.subdesc,
+	.breadcrumbs { float: none !important; display: block !important; }
+
+	.iva_one_half, .iva_one_third { width:100%;}
+	.iva-testimonial { display:block; border-width:0 0 1px 0; }
+
+	.vertabs .tabs { float: none; width:100%; }
+	.vertabs .tabs li { border-width:1px 1px 0; }
+	.vertabs .tabs li:last-child { border-width:1px 1px 1px 1px; }
+
+	.iva-np-title { display:none;}
+	.iva-np-allitems,
+	.iva-np-navs { width: 160px;}
+
+	.flex-caption,
+	.header-style4 .search-box { display:none !important; } 
+
+	.tc-details { float: none; margin-bottom: 15px; }
+	.header-style2 .menu-dropdown { margin-top: 30px;}
+
+	/* New Fixes */
+	.fancyheading .xlarge { font-size: 30px !important; }
+	.fancyheading .large { font-size: 26px !important; }
+	.vertabs .tabs li, .hortabs .tabs li { width: 100%; float: none; }
+
+	blockquote.alignright,
+	blockquote.alignleft,
+	blockquote.aligncenter { width: 100% !important; margin-right:0 !important; margin-left:0 !important;}	
+
+}
